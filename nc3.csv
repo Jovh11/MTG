@@ -1,0 +1,205 @@
+,name,mana_cost,cmc,oracle_text,prices,set,rarity
+0,Bonders' Enclave,_,0.0,{T}: Add {C}. {3}  {T}: Draw a card. Activate only if you control a creature with power 4 or greater.,0.60,j22,2
+1,Pounce,{1}{G},2.0,Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.),0.24,j22,0
+2,Electrify,{3}{R},4.0,This Card deals 4 damage to target creature.,0.26,j22,0
+3,Not Forgotten,{1}{W},2.0,Put target card from a graveyard on the top or bottom of its owner's library. Create a 1/1 white Spirit creature token with flying.,0.74,j22,1
+4,Jousting Lance,{2},2.0,Equipped creature gets +2/+0. As long as it's your turn  equipped creature has first strike. Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.),0.39,j22,0
+5,Seat of the Synod,_,0.0,{T}: Add {U}.,0.44,j22,0
+6,Cultivate,{2}{G},3.0,Search your library for up to two basic land cards  reveal those cards  put one onto the battlefield tapped and the other into your hand  then shuffle.,0.25,j22,0
+7,Panharmonicon,{4},4.0,If an artifact or creature entering the battlefield causes a triggered ability of a permanent you control to trigger  that ability triggers an additional time.,4.65,j22,2
+8,Hydra's Growth,{2}{G},3.0,Enchant creature When This Card enters the battlefield  put a +1/+1 counter on enchanted creature. At the beginning of your upkeep  double the number of +1/+1 counters on enchanted creature.,1.45,j22,1
+9,Blighted Fen,_,0.0,{T}: Add {C}. {4}{B}  {T}  Sacrifice This Card: Target opponent sacrifices a creature.,0.25,j22,1
+10,Military Intelligence,{1}{U},2.0,Whenever you attack with two or more creatures  draw a card.,0.24,j22,1
+11,Winter's Rest,{1}{U},2.0,Enchant creature When This Card enters the battlefield  tap enchanted creature. As long as you control another snow permanent  enchanted creature doesn't untap during its controller's untap step.,0.26,j22,0
+12,Crippling Chill,{2}{U},3.0,Tap target creature. It doesn't untap during its controller's next untap step. Draw a card.,0.50,j22,0
+13,Lookout's Dispersal,{2}{U},3.0,This spell costs {1} less to cast if you control a Pirate. Counter target spell unless its controller pays {4}.,0.24,j22,1
+14,Thriving Grove,_,0.0,This Card enters the battlefield tapped. As This Card enters the battlefield  choose a color other than green. {T}: Add {G} or one mana of the chosen color.,0.09,j22,0
+15,Bag of Holding,{1},1.0,Whenever you discard a card  exile that card from your graveyard. {2}  {T}: Draw a card  then discard a card. {4}  {T}  Sacrifice This Card: Return all cards exiled with This Card to their owner's hand.,0.24,j22,2
+16,Radiant's Judgment,{2}{W},3.0,Destroy target creature with power 4 or greater. Cycling {2} ({2}  Discard this card: Draw a card.),0.23,j22,0
+17,Coldsteel Heart,{2},2.0,This Card enters the battlefield tapped. As This Card enters the battlefield  choose a color. {T}: Add one mana of the chosen color.,5.79,j22,1
+18,Consign to the Pit,{5}{B},6.0,Destroy target creature. This Card deals 2 damage to that creature's controller.,0.24,j22,0
+19,Exsanguinate,{X}{B}{B},2.0,Each opponent loses X life. You gain life equal to the life lost this way.,5.33,j22,1
+20,Thriving Moor,_,0.0,This Card enters the battlefield tapped. As This Card enters the battlefield  choose a color other than black. {T}: Add {B} or one mana of the chosen color.,0.09,j22,0
+21,Ignite the Future,{3}{R},4.0,Exile the top three cards of your library. Until the end of your next turn  you may play those cards. If this spell was cast from a graveyard  you may play cards this way without paying their mana costs. Flashback {7}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),0.45,j22,2
+22,Witch's Cauldron,{B},1.0,{1}{B}  {T}  Sacrifice a creature: You gain 1 life and draw a card.,0.24,j22,1
+23,The Circle of Loyalty,{4}{W}{W},6.0,This spell costs {1} less to cast for each Knight you control. Creatures you control get +1/+1. Whenever you cast a legendary spell  create a 2/2 white Knight creature token with vigilance. {3}{W}  {T}: Create a 2/2 white Knight creature token with vigilance.,0.94,j22,3
+24,Dragon Blood,{3},3.0,{3}  {T}: Put a +1/+1 counter on target creature.,0.25,j22,1
+25,Mortuary Mire,_,0.0,This Card enters the battlefield tapped. When This Card enters the battlefield  you may put target creature card from your graveyard on top of your library. {T}: Add {B}.,0.20,j22,0
+26,Soul Read,{3}{U},4.0,Choose one — • Counter target spell unless its controller pays {4}. • Draw two cards.,0.23,j22,0
+27,Goblin Oriflamme,{1}{R},2.0,Attacking creatures you control get +1/+0.,0.09,j22,1
+28,Starstorm,{X}{R}{R},2.0,This Card deals X damage to each creature. Cycling {3} ({3}  Discard this card: Draw a card.),0.49,j22,2
+29,Arrest,{2}{W},3.0,Enchant creature Enchanted creature can't attack or block  and its activated abilities can't be activated.,0.44,j22,1
+30,Dismiss,{2}{U}{U},4.0,Counter target spell. Draw a card.,1.69,j22,1
+31,Strangling Spores,{3}{B},4.0,Target creature gets -3/-3 until end of turn.,0.24,j22,0
+32,Felidar Retreat,{3}{W},4.0,Landfall — Whenever a land enters the battlefield under your control  choose one — • Create a 2/2 white Cat Beast creature token. • Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.,1.42,j22,2
+33,Make a Stand,{2}{W},3.0,"Creatures you control get +1/+0 and gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",0.25,j22,1
+34,Savage Punch,{1}{G},2.0,Target creature you control fights target creature you don't control. Ferocious — The creature you control gets +2/+2 until end of turn before it fights if you control a creature with power 4 or greater.,0.25,j22,0
+35,Mire Blight,{B},1.0,Enchant creature When enchanted creature is dealt damage  destroy it.,0.24,j22,0
+36,Warped Landscape,_,0.0,{T}: Add {C}. {2}  {T}  Sacrifice This Card: Search your library for a basic land card  put it onto the battlefield tapped  then shuffle.,0.24,j22,0
+37,Treetop Village,_,0.0,This Card enters the battlefield tapped. {T}: Add {G}. {1}{G}: This Card becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (It can deal excess combat damage to the player or planeswalker it's attacking.),0.25,j22,1
+38,Zendikar's Roil,{3}{G}{G},5.0,Landfall — Whenever a land enters the battlefield under your control  create a 2/2 green Elemental creature token.,0.23,j22,1
+39,"Tamiyo, the Moon Sage",{3}{U}{U},5.0,"+1: Tap target permanent. It doesn't untap during its controller's next untap step. −2: Draw a card for each tapped creature target player controls. −8: You get an emblem with ""You have no maximum hand size"" and ""Whenever a card is put into your graveyard from anywhere  you may return it to your hand.""",6.81,j22,3
+40,Moment of Triumph,{W},1.0,Target creature gets +2/+2 until end of turn. You gain 2 life.,0.25,j22,0
+41,Village Rites,{B},1.0,As an additional cost to cast this spell  sacrifice a creature. Draw two cards.,0.20,j22,0
+42,Urza's Power Plant,_,0.0,{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower  add {C}{C} instead.,0.65,j22,0
+43,Thriving Isle,_,0.0,This Card enters the battlefield tapped. As This Card enters the battlefield  choose a color other than blue. {T}: Add {U} or one mana of the chosen color.,0.09,j22,0
+44,Plains,_,0.0,({T}: Add {W}.),0.20,j22,0
+45,Necrotic Wound,{B},1.0,Undergrowth — Target creature gets -X/-X until end of turn  where X is the number of creature cards in your graveyard. If that creature would die this turn  exile it instead.,0.26,j22,1
+46,Whirlermaker,{3},3.0,{4}  {T}: Create a 1/1 colorless Thopter artifact creature token with flying.,0.24,j22,1
+47,Howl of the Hunt,{2}{G},3.0,Flash Enchant creature When This Card enters the battlefield  if enchanted creature is a Wolf or Werewolf  untap that creature. Enchanted creature gets +2/+2 and has vigilance.,0.24,j22,0
+48,Talon of Pain,{4},4.0,Whenever a source you control other than This Card deals damage to an opponent  put a charge counter on This Card. {X}  {T}  Remove X charge counters from This Card: It deals X damage to any target.,0.25,j22,1
+49,Mantle of Tides,{U},1.0,Equipped creature gets +1/+2. Whenever you draw your second card each turn  attach This Card to target creature you control. Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.),0.24,j22,0
+50,Aquatic Incursion,{3}{U},4.0,When This Card enters the battlefield  create two 1/1 blue Merfolk creature tokens with hexproof. (They can't be the targets of spells or abilities your opponents control.) {3}{U}: Target Merfolk can't be blocked this turn.,0.10,j22,1
+51,Sarkhan's Rage,{4}{R},5.0,This Card deals 5 damage to any target. If you control no Dragons  This Card deals 2 damage to you.,0.26,j22,0
+52,Scale the Heights,{2}{G},3.0,Put a +1/+1 counter on up to one target creature. You gain 2 life. You may play an additional land this turn. Draw a card.,0.24,j22,0
+53,Colossal Majesty,{2}{G},3.0,At the beginning of your upkeep  if you control a creature with power 4 or greater  draw a card.,1.29,j22,1
+54,Defy Death,{3}{W}{W},5.0,Return target creature card from your graveyard to the battlefield. If it's an Angel  put two +1/+1 counters on it.,0.24,j22,1
+55,Mountain,_,0.0,({T}: Add {R}.),0.20,j22,0
+56,Wastes,_,0.0,{T}: Add {C}.,0.89,j22,0
+57,Rampaging Growth,{3}{G},4.0,Search your library for a basic land card  put it on the battlefield  then shuffle. Until end of turn  that land becomes a 4/3 Insect creature with reach and haste. It's still a land.,0.90,j22,1
+58,Weapon Rack,{4},4.0,This Card enters the battlefield with three +1/+1 counters on it. {T}: Move a +1/+1 counter from This Card onto target creature. Activate only as a sorcery.,0.25,j22,0
+59,"Jace, Arcane Strategist",{4}{U}{U},6.0,Whenever you draw your second card each turn  put a +1/+1 counter on target creature you control. +1: Draw a card. −7: Creatures you control can't be blocked this turn.,2.35,j22,3
+60,Thriving Bluff,_,0.0,This Card enters the battlefield tapped. As This Card enters the battlefield  choose a color other than red. {T}: Add {R} or one mana of the chosen color.,0.09,j22,0
+61,Thrill of Possibility,{1}{R},2.0,As an additional cost to cast this spell  discard a card. Draw two cards.,1.07,j22,0
+62,Magnifying Glass,{3},3.0,"{T}: Add {C}. {4}  {T}: Investigate. (Create a Clue token. It's an artifact with ""{2}  Sacrifice this artifact: Draw a card."")",1.02,j22,1
+63,Scorching Dragonfire,{1}{R},2.0,This Card deals 3 damage to target creature or planeswalker. If that creature or planeswalker would die this turn  exile it instead.,0.26,j22,0
+64,Big Score,{3}{R},4.0,"As an additional cost to cast this spell  discard a card. Draw two cards and create two Treasure tokens. (They're artifacts with ""{T}  Sacrifice this artifact: Add one mana of any color."")",0.38,j22,0
+65,Interpret the Signs,{5}{U},6.0,Scry 3  then reveal the top card of your library. Draw cards equal to that card's mana value. (To scry 3  look at the top three cards of your library  then put any number of them on the bottom of your library and the rest on top in any order.),0.25,j22,1
+66,Necromancer's Stockpile,{1}{B},2.0,{1}{B}  Discard a creature card: Draw a card. If the discarded card was a Zombie card  create a tapped 2/2 black Zombie creature token.,0.41,j22,2
+67,Goblin Rally,{3}{R}{R},5.0,Create four 1/1 red Goblin creature tokens.,0.22,j22,1
+68,Devouring Light,{1}{W}{W},3.0,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.) Exile target attacking or blocking creature.,1.11,j22,1
+69,Flicker of Fate,{1}{W},2.0,Exile target creature or enchantment  then return it to the battlefield under its owner's control.,0.93,j22,0
+70,Titan's Presence,{3},3.0,As an additional cost to cast this spell  reveal a colorless creature card from your hand. Exile target creature if its power is less than or equal to the revealed card's power.,0.25,j22,1
+71,Demonic Gifts,{1}{B},2.0,"Until end of turn  target creature gets +2/+0 and gains ""When this creature dies  return it to the battlefield under its owner's control.""",0.25,j22,0
+72,Dragon Fodder,{1}{R},2.0,Create two 1/1 red Goblin creature tokens.,1.14,j22,0
+73,"Chandra, Flame's Fury",{4}{R}{R},6.0,+1: This Card deals 2 damage to any target. −2: This Card deals 4 damage to target creature and 2 damage to that creature's controller. −8: This Card deals 10 damage to target player and each creature that player controls.,2.69,j22,3
+74,Synchronized Eviction,{4}{U},5.0,This spell costs {2} less to cast if you control at least two creatures that share a creature type. Put target nonland permanent into its owner's library second from the top.,0.67,j22,1
+75,Teferi's Puzzle Box,{4},4.0,At the beginning of each player's draw step  that player puts the cards in their hand on the bottom of their library in any order  then draws that many cards.,5.94,j22,2
+76,Desert of the Mindful,_,0.0,This Card enters the battlefield tapped. {T}: Add {U}. Cycling {1}{U} ({1}{U}  Discard this card: Draw a card.),0.24,j22,0
+77,Valor in Akros,{3}{W},4.0,Whenever a creature enters the battlefield under your control  creatures you control get +1/+1 until end of turn.,0.58,j22,1
+78,Eviscerate,{3}{B},4.0,Destroy target creature.,0.50,j22,0
+79,Dawn of Hope,{1}{W},2.0,Whenever you gain life  you may pay {2}. If you do  draw a card. {3}{W}: Create a 1/1 white Soldier creature token with lifelink.,1.45,j22,2
+80,Fungal Infection,{B},1.0,Target creature gets -1/-1 until end of turn. Create a 1/1 green Saproling creature token.,0.50,j22,0
+81,Sigil of the Empty Throne,{3}{W}{W},5.0,Whenever you cast an enchantment spell  create a 4/4 white Angel creature token with flying.,0.94,j22,2
+82,Eaten Alive,{B},1.0,As an additional cost to cast this spell  sacrifice a creature or pay {3}{B}. Exile target creature or planeswalker.,0.24,j22,0
+83,Blessed Sanctuary,{3}{W}{W},5.0,Prevent all noncombat damage that would be dealt to you and creatures you control. Whenever a nontoken creature enters the battlefield under your control  create a 2/2 white Unicorn creature token.,1.04,j22,2
+84,Urza's Factory,_,0.0,{T}: Add {C}. {7}  {T}: Create a 2/2 colorless Assembly-Worker artifact creature token.,0.25,j22,1
+85,Hold for Questioning,{3}{U},4.0,"Enchant creature or planeswalker When This Card enters the battlefield  tap enchanted permanent and investigate. (Create a Clue token. It's an artifact with ""{2}  Sacrifice this artifact: Draw a card."") Enchanted permanent doesn't untap during its controller's untap step and its activated abilities can't be activated.",0.23,j22,1
+86,Karn Liberated,{7},7.0,+4: Target player exiles a card from their hand. −3: Exile target permanent. −14: Restart the game  leaving in exile all non-Aura permanent cards exiled with This Card. Then put those cards onto the battlefield under your control.,18.02,j22,3
+87,Cage of Hands,{2}{W},3.0,Enchant creature Enchanted creature can't attack or block. {1}{W}: Return This Card to its owner's hand.,0.25,j22,0
+88,Banefire,{X}{R},1.0,This Card deals X damage to any target. If X is 5 or more  this spell can't be countered and the damage can't be prevented.,3.43,j22,2
+89,Mechanized Production,{2}{U}{U},4.0,Enchant artifact you control At the beginning of your upkeep  create a token that's a copy of enchanted artifact. Then if you control eight or more artifacts with the same name as one another  you win the game.,6.38,j22,3
+90,Swamp,_,0.0,({T}: Add {B}.),0.20,j22,0
+91,Tormenting Voice,{1}{R},2.0,As an additional cost to cast this spell  discard a card. Draw two cards.,0.26,j22,0
+92,Khalni Heart Expedition,{1}{G},2.0,Landfall — Whenever a land enters the battlefield under your control  you may put a quest counter on This Card. Remove three quest counters from This Card and sacrifice it: Search your library for up to two basic land cards  put them onto the battlefield tapped  then shuffle.,0.47,j22,0
+93,Wolfwillow Haven,{1}{G},2.0,Enchant land Whenever enchanted land is tapped for mana  its controller adds an additional {G}. {4}{G}  Sacrifice This Card: Create a 2/2 green Wolf creature token. Activate only during your turn.,0.25,j22,1
+94,Ram Through,{1}{G},2.0,Target creature you control deals damage equal to its power to target creature you don't control. If the creature you control has trample  excess damage is dealt to that creature's controller instead.,0.63,j22,0
+95,Shining Armor,{1}{W},2.0,Flash When This Card enters the battlefield  attach it to target Knight you control. Equipped creature gets +0/+2 and has vigilance. Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.),0.39,j22,0
+96,Band Together,{2}{G},3.0,Up to two target creatures you control each deal damage equal to their power to another target creature.,0.25,j22,0
+97,Leechridden Swamp,_,0.0,({T}: Add {B}.) This Card enters the battlefield tapped. {B}  {T}: Each opponent loses 1 life. Activate only if you control two or more black permanents.,1.57,j22,1
+98,Declare Dominance,{3}{G}{G},5.0,Target creature gets +3/+3 until end of turn. All creatures able to block it this turn do so.,0.25,j22,1
+99,Hordeling Outburst,{1}{R}{R},3.0,Create three 1/1 red Goblin creature tokens.,0.24,j22,1
+100,Feed the Pack,{5}{G},6.0,At the beginning of your end step  you may sacrifice a nontoken creature. If you do  create X 2/2 green Wolf creature tokens  where X is the sacrificed creature's toughness.,0.47,j22,2
+101,Improvised Weaponry,{2}{R},3.0,"This Card deals 2 damage to any target. Create a Treasure token. (It's an artifact with ""{T}  Sacrifice this artifact: Add one mana of any color."")",0.25,j22,0
+102,Death Wind,{X}{B},1.0,Target creature gets -X/-X until end of turn.,0.24,j22,1
+103,Infiltration Lens,{1},1.0,Whenever equipped creature becomes blocked by a creature  you may draw two cards. Equip {1},0.36,j22,1
+104,Graf Harvest,{B},1.0,Zombies you control have menace. (They can't be blocked except by two or more creatures.) {3}{B}  Exile a creature card from your graveyard: Create a 2/2 black Zombie creature token.,0.24,j22,1
+105,Light of Hope,{W},1.0,Choose one — • You gain 4 life. • Destroy target enchantment. • Put a +1/+1 counter on target creature.,0.21,j22,0
+106,Stolen by the Fae,{X}{U}{U},2.0,Return target creature with mana value X to its owner's hand. You create X 1/1 blue Faerie creature tokens with flying.,0.48,j22,2
+107,Alchemist's Vial,{2},2.0,When This Card enters the battlefield  draw a card. {1}  {T}  Sacrifice This Card: Target creature can't attack or block this turn.,0.25,j22,0
+108,Forest,_,0.0,({T}: Add {G}.),0.38,j22,0
+109,Planar Atlas,{2},2.0,This Card enters the battlefield tapped. When This Card enters the battlefield  you may look at the top four cards of your library. If you do  reveal up to one land card from among them  then put that card on top of your library and the rest on the bottom in a random order. {T}: Add {C}.,1.01,j22,1
+110,Piranha Marsh,_,0.0,This Card enters the battlefield tapped. When This Card enters the battlefield  target player loses 1 life. {T}: Add {B}.,0.25,j22,0
+111,Phalanx Tactics,{1}{W},2.0,Target creature you control gets +2/+1 until end of turn. Each other creature you control gets +1/+1 until end of turn.,0.47,j22,1
+112,Chains of Custody,{2}{W},3.0,Enchant creature you control When This Card enters the battlefield  exile target nonland permanent an opponent controls until This Card leaves the battlefield. Enchanted creature has ward {2}. (Whenever this creature becomes the target of a spell or ability an opponent controls  counter it unless that player pays {2}.),0.39,j22,0
+113,Instruments of War,{4},4.0,Flash As This Card enters the battlefield  choose a creature type. Creatures you control of the chosen type get +1/+1.,0.55,j22,1
+114,"Tezzeret, Artifice Master",{3}{U}{U},5.0,"+1: Create a 1/1 colorless Thopter artifact creature token with flying. 0: Draw a card. If you control three or more artifacts  draw two cards instead. −9: You get an emblem with ""At the beginning of your end step  search your library for a permanent card  put it onto the battlefield  then shuffle.""",2.19,j22,3
+115,"Arlinn, Voice of the Pack",{4}{G}{G},6.0,Each creature you control that's a Wolf or a Werewolf enters the battlefield with an additional +1/+1 counter on it. −2: Create a 2/2 green Wolf creature token.,1.01,j22,1
+116,Deadly Plot,{3}{B},4.0,Choose one — • Destroy target creature or planeswalker. • Return target Zombie creature card from your graveyard to the battlefield tapped.,0.22,j22,1
+117,Settle Beyond Reality,{4}{W},5.0,Choose one or both — • Exile target creature you don't control. • Exile target creature you control  then return it to the battlefield under its owner's control.,0.24,j22,0
+118,Infernal Idol,{3},3.0,{T}: Add {B}. {1}{B}{B}  {T}  Sacrifice This Card: You draw two cards and you lose 2 life.,0.27,j22,0
+119,Rhystic Study,{2}{U},3.0,Whenever an opponent casts a spell  you may draw a card unless that player pays {1}.,35.21,j22,2
+120,Corpse Churn,{1}{B},2.0,Mill three cards  then you may return a creature card from your graveyard to your hand. (To mill a card  put the top card of your library into your graveyard.),0.26,j22,0
+121,Forgotten Cave,_,0.0,This Card enters the battlefield tapped. {T}: Add {R}. Cycling {R} ({R}  Discard this card: Draw a card.),0.17,j22,0
+122,Serum Visions,{U},1.0,Draw a card. Scry 2.,0.49,j22,1
+123,Ob Nixilis's Cruelty,{2}{B},3.0,Target creature gets -5/-5 until end of turn. If that creature would die this turn  exile it instead.,0.20,j22,0
+124,Condescend,{X}{U},1.0,Counter target spell unless its controller pays {X}. Scry 2. (Look at the top two cards of your library  then put any number of them on the bottom of your library and the rest on top in any order.),0.25,j22,1
+125,Hour of Reckoning,{4}{W}{W}{W},7.0,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.) Destroy all nontoken creatures.,0.45,j22,2
+126,Aerial Modification,{4}{W},5.0,Enchant creature or Vehicle As long as enchanted permanent is a Vehicle  it's a creature in addition to its other types. Enchanted creature gets +2/+2 and has flying.,0.24,j22,1
+127,"Ajani, Strength of the Pride",{2}{W}{W},4.0,"+1: You gain life equal to the number of creatures you control plus the number of planeswalkers you control. −2: Create a 2/2 white Cat Soldier creature token named Ajani's Pridemate with ""Whenever you gain life  put a +1/+1 counter on Ajani's Pridemate."" 0: If you have at least 15 life more than your starting life total  exile This Card and each artifact and creature your opponents control.",4.74,j22,3
+128,Marit Lage's Slumber,{1}{U},2.0,Whenever This Card or another snow permanent enters the battlefield under your control  scry 1. At the beginning of your upkeep  if you control ten or more snow permanents  sacrifice This Card. If you do  create Marit Lage  a legendary 20/20 black Avatar creature token with flying and indestructible.,0.76,j22,2
+129,Launch Mishap,{2}{U},3.0,Counter target creature or planeswalker spell. Create a 1/1 colorless Thopter artifact creature token with flying.,0.25,j22,1
+130,Act on Impulse,{2}{R},3.0,Exile the top three cards of your library. Until end of turn  you may play cards exiled this way. (If you cast a spell this way  you still pay its costs. You can play a land this way only if you have an available land play remaining.),0.26,j22,1
+131,Peacewalker Colossus,{3},3.0,{1}{W}: Another target Vehicle you control becomes an artifact creature until end of turn. Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.),1.68,j22,2
+132,Tragic Slip,{B},1.0,Target creature gets -1/-1 until end of turn. Morbid — That creature gets -13/-13 until end of turn instead if a creature died this turn.,4.44,j22,0
+133,Crawling Sensation,{2}{G},3.0,At the beginning of your upkeep  you may mill two cards. Whenever one or more land cards are put into your graveyard from anywhere for the first time each turn  create a 1/1 green Insect creature token.,0.14,j22,1
+134,Phyrexian Reclamation,{B},1.0,{1}{B}  Pay 2 life: Return target creature card from your graveyard to your hand.,5.94,j22,1
+135,Tragic Lesson,{2}{U},3.0,Draw two cards. Then discard a card unless you return a land you control to its owner's hand.,0.25,j22,0
+136,Hero's Blade,{2},2.0,Equipped creature gets +3/+2. Whenever a legendary creature enters the battlefield under your control  you may attach This Card to it. Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.),0.24,j22,1
+137,Startling Development,{1}{U},2.0,Until end of turn  target creature becomes a blue Serpent with base power and toughness 4/4. Cycling {1} ({1}  Discard this card: Draw a card.),0.24,j22,0
+138,Spark of Creativity,{R},1.0,Choose target creature. Exile the top card of your library. You may have This Card deal damage to that creature equal to the exiled card's mana value. If you don't  you may play that card until end of turn.,0.26,j22,1
+139,Tamiyo's Journal,{5},5.0,"At the beginning of your upkeep  investigate. (Create a Clue token. It's an artifact with ""{2}  Sacrifice this artifact: Draw a card."") {T}  Sacrifice three Clues: Search your library for a card  put that card into your hand  then shuffle.",4.64,j22,2
+140,Brazen Cannonade,{3}{R},4.0,Whenever an attacking creature you control dies  This Card deals 2 damage to each opponent. Raid — At the beginning of your postcombat main phase  if you attacked with a creature this turn  exile the top card of your library. Until end of combat on your next turn  you may play that card.,3.89,j22,2
+141,Festering Evil,{3}{B}{B},5.0,At the beginning of your upkeep  This Card deals 1 damage to each creature and each player. {B}{B}  Sacrifice This Card: It deals 3 damage to each creature and each player.,0.28,j22,1
+142,Aftershock,{2}{R}{R},4.0,Destroy target artifact  creature  or land. This Card deals 3 damage to you.,0.30,j22,0
+143,Ghoul's Feast,{1}{B},2.0,Target creature gets +X/+0 until end of turn  where X is the number of creature cards in your graveyard.,0.23,j22,0
+144,Acrobatic Maneuver,{2}{W},3.0,Exile target creature you control  then return that card to the battlefield under its owner's control. Draw a card.,0.24,j22,0
+145,Decree of Justice,{X}{X}{2}{W}{W},4.0,Create X 4/4 white Angel creature tokens with flying. Cycling {2}{W} ({2}{W}  Discard this card: Draw a card.) When you cycle This Card  you may pay {X}. If you do  create X 1/1 white Soldier creature tokens.,0.48,j22,2
+146,Goblin Grenade,{R},1.0,As an additional cost to cast this spell  sacrifice a Goblin. This Card deals 5 damage to any target.,0.22,j22,1
+147,Roar of Challenge,{2}{G},3.0,All creatures able to block target creature this turn do so. Ferocious — That creature gains indestructible until end of turn if you control a creature with power 4 or greater.,0.25,j22,1
+148,Might of the Masses,{G},1.0,Target creature gets +1/+1 until end of turn for each creature you control.,0.17,j22,0
+149,Swamp,_,0.0,({T}: Add {B}.),0.20,j22,0
+150,Preordain,{U},1.0,Scry 2  then draw a card. (To scry 2  look at the top two cards of your library  then put any number of them on the bottom of your library and the rest on top in any order.),7.13,j22,0
+151,"Kasmina, Enigmatic Mentor",{3}{U},4.0,Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast. −2: Create a 2/2 blue Wizard creature token. Draw a card  then discard a card.,1.76,j22,1
+152,"Sarkhan, the Dragonspeaker",{3}{R}{R},5.0,"+1: Until end of turn  This Card becomes a legendary 4/4 red Dragon creature with flying  indestructible  and haste. (He doesn't lose loyalty while he's not a planeswalker.) −3: This Card deals 4 damage to target creature. −6: You get an emblem with ""At the beginning of your draw step  draw two additional cards"" and ""At the beginning of your end step  discard your hand.""",1.07,j22,3
+153,Urza's Tower,_,0.0,{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant  add {C}{C}{C} instead.,0.67,j22,0
+154,Ill-Gotten Inheritance,{3}{B},4.0,At the beginning of your upkeep  This Card deals 1 damage to each opponent and you gain 1 life. {5}{B}  Sacrifice This Card: It deals 4 damage to target opponent and you gain 4 life.,0.21,j22,0
+155,Unquestioned Authority,{2}{W},3.0,Enchant creature When This Card enters the battlefield  draw a card. Enchanted creature has protection from creatures.,0.47,j22,1
+156,Overgrowth,{2}{G},3.0,Enchant land Whenever enchanted land is tapped for mana  its controller adds an additional {G}{G}.,0.36,j22,0
+157,Forest,_,0.0,({T}: Add {G}.),0.25,j22,0
+158,Outnumber,{R},1.0,This Card deals damage to target creature equal to the number of creatures you control.,1.69,j22,0
+159,Feast on the Fallen,{2}{B},3.0,At the beginning of each upkeep  if an opponent lost life last turn  put a +1/+1 counter on target creature you control.,0.22,j22,1
+160,Spawning Pit,{2},2.0,Sacrifice a creature: Put a charge counter on This Card. {1}  Remove two charge counters from This Card: Create a 2/2 colorless Spawn artifact creature token.,1.66,j22,1
+161,Ruin in Their Wake,{1}{G},2.0,Devoid (This card has no color.) Search your library for a basic land card and reveal it. You may put that card onto the battlefield tapped if you control a land named Wastes. Otherwise  put that card into your hand. Then shuffle.,0.79,j22,1
+162,Diabolic Edict,{1}{B},2.0,Target player sacrifices a creature.,0.27,j22,0
+163,Shimmerdrift Vale,_,0.0,This Card enters the battlefield tapped. As This Card enters the battlefield  choose a color. {T}: Add one mana of the chosen color.,0.26,j22,0
+164,Adventuring Gear,{1},1.0,Landfall — Whenever a land enters the battlefield under your control  equipped creature gets +2/+2 until end of turn. Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),0.24,j22,0
+165,Endless Ranks of the Dead,{2}{B}{B},4.0,At the beginning of your upkeep  create X 2/2 black Zombie creature tokens  where X is half the number of Zombies you control  rounded down.,0.96,j22,2
+166,Elven Bow,{G},1.0,When This Card enters the battlefield  you may pay {2}. If you do  create a 1/1 green Elf Warrior creature token  then attach This Card to it. Equipped creature gets +1/+2 and has reach. Equip {3},0.25,j22,1
+167,Icebind Pillar,{2}{U},3.0,{S}  {T}: Tap target artifact or creature. ({S} can be paid with one mana from a snow source.),0.24,j22,1
+168,Universal Solvent,{1},1.0,{7}  {T}  Sacrifice This Card: Destroy target permanent.,0.26,j22,0
+169,Forced Worship,{1}{W},2.0,Enchant creature Enchanted creature can't attack. {2}{W}: Return This Card to its owner's hand.,0.17,j22,0
+170,Thopter Spy Network,{2}{U}{U},4.0,At the beginning of your upkeep  if you control an artifact  create a 1/1 colorless Thopter artifact creature token with flying. Whenever one or more artifact creatures you control deal combat damage to a player  draw a card.,0.40,j22,2
+171,Raiders' Karve,{3},3.0,Whenever This Card attacks  look at the top card of your library. If it's a land card  you may put it onto the battlefield tapped. Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.),0.24,j22,0
+172,Broken Bond,{1}{G},2.0,Destroy target artifact or enchantment. You may put a land card from your hand onto the battlefield.,0.38,j22,0
+173,Liliana's Mastery,{3}{B}{B},5.0,Zombies you control get +1/+1. When This Card enters the battlefield  create two 2/2 black Zombie creature tokens.,0.36,j22,2
+174,Cemetery Recruitment,{1}{B},2.0,Return target creature card from your graveyard to your hand. If it's a Zombie card  draw a card.,1.32,j22,0
+175,Ancient Craving,{3}{B},4.0,You draw three cards and you lose 3 life.,2.30,j22,1
+176,Lay Claim,{5}{U}{U},7.0,Enchant permanent You control enchanted permanent. Cycling {2} ({2}  Discard this card: Draw a card.),0.39,j22,1
+177,Dragon's Hoard,{3},3.0,Whenever a Dragon enters the battlefield under your control  put a gold counter on This Card. {T}  Remove a gold counter from This Card: Draw a card. {T}: Add one mana of any color.,1.82,j22,2
+178,"Ob Nixilis, the Hate-Twisted",{3}{B}{B},5.0,Whenever an opponent draws a card  This Card deals 1 damage to that player. −2: Destroy target creature. Its controller draws two cards.,1.09,j22,1
+179,Monkey Cage,{5},5.0,When a creature enters the battlefield  sacrifice This Card and create X 2/2 green Monkey creature tokens  where X is that creature's mana value.,2.55,j22,2
+180,Triskaidekaphobia,{3}{B},4.0,At the beginning of your upkeep  choose one — • Each player with exactly 13 life loses the game  then each player gains 1 life. • Each player with exactly 13 life loses the game  then each player loses 1 life.,0.47,j22,2
+181,Cellar Door,{2},2.0,{3}  {T}: Target player puts the bottom card of their library into their graveyard. If it's a creature card  you create a 2/2 black Zombie creature token.,0.25,j22,1
+182,Roots of Wisdom,{1}{G},2.0,Mill three cards  then return a land card or Elf card from your graveyard to your hand. If you can't  draw a card. (To mill a card  put the top card of your library into your graveyard.),0.25,j22,0
+183,Loxodon Warhammer,{3},3.0,Equipped creature gets +3/+0 and has trample and lifelink. Equip {3},0.47,j22,2
+184,Urza's Mine,_,0.0,{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower  add {C}{C} instead.,0.62,j22,0
+185,Daring Piracy,{2}{R},3.0,At the beginning of your combat on your turn  create a 1/1 red Pirate creature token with menace and haste. Exile it at the beginning of the next end step.,0.91,j22,1
+186,Righteousness,{W},1.0,Target blocking creature gets +7/+7 until end of turn.,0.24,j22,1
+187,Aether Spellbomb,{1},1.0,{U}  Sacrifice This Card: Return target creature to its owner's hand. {1}  Sacrifice This Card: Draw a card.,0.30,j22,0
+188,Forest,_,0.0,({T}: Add {G}.),0.25,j22,0
+189,Sage's Reverie,{3}{W},4.0,Enchant creature When This Card enters the battlefield  draw a card for each Aura you control that's attached to a creature. Enchanted creature gets +1/+1 for each Aura you control that's attached to a creature.,2.60,j22,1
+190,"Liliana, Death's Majesty",{3}{B}{B},5.0,+1: Create a 2/2 black Zombie creature token. Mill two cards. −3: Return target creature card from your graveyard to the battlefield. That creature is a black Zombie in addition to its other colors and types. −7: Destroy all non-Zombie creatures.,1.57,j22,3
+191,Vampiric Rites,{B},1.0,{1}{B}  Sacrifice a creature: You gain 1 life and draw a card.,0.37,j22,1
+192,Feast of Blood,{1}{B},2.0,Cast this spell only if you control two or more Vampires. Destroy target creature. You gain 4 life.,0.27,j22,1
+193,Oversold Cemetery,{1}{B},2.0,At the beginning of your upkeep  if you have four or more creature cards in your graveyard  you may return target creature card from your graveyard to your hand.,10.49,j22,2
+194,Ulcerate,{B},1.0,Target creature gets -3/-3 until end of turn. You lose 3 life.,0.25,j22,1
+195,Valorous Stance,{1}{W},2.0,"Choose one — • Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.) • Destroy target creature with toughness 4 or greater.",0.94,j22,1
+196,"Gideon, Champion of Justice",{2}{W}{W},4.0,+1: Put a loyalty counter on This Card for each creature target opponent controls. 0: Until end of turn  This Card becomes a Human Soldier creature with power and toughness each equal to the number of loyalty counters on him and gains indestructible. He's still a planeswalker. Prevent all damage that would be dealt to him this turn. −15: Exile all other permanents.,0.85,j22,3
+197,Inner Demon,{2}{B}{B},4.0,Enchant creature Enchanted creature gets +2/+2  has flying  and is a Demon in addition to its other types. When This Card enters the battlefield  all non-Demon creatures get -2/-2 until end of turn.,0.26,j22,1
+198,Caught in the Brights,{2}{W},3.0,Enchant creature Enchanted creature can't attack or block. When a Vehicle you control attacks  exile enchanted creature.,0.39,j22,0
+199,Trove of Temptation,{3}{R},4.0,"Each opponent must attack you or a planeswalker you control with at least one creature each combat if able. At the beginning of your end step  create a Treasure token. (It's an artifact with ""{T}  Sacrifice this artifact: Add one mana of any color."")",0.25,j22,1
+200,Snow-Covered Island,_,0.0,({T}: Add {U}.),1.19,j22,0
+201,Expedition Map,{1},1.0,{2}  {T}  Sacrifice This Card: Search your library for a land card  reveal it  put it into your hand  then shuffle.,2.33,j22,0
+202,Thriving Heath,_,0.0,This Card enters the battlefield tapped. As This Card enters the battlefield  choose a color other than white. {T}: Add {W} or one mana of the chosen color.,0.09,j22,0
+203,Sandstone Bridge,_,0.0,This Card enters the battlefield tapped. When This Card enters the battlefield  target creature gets +1/+1 and gains vigilance until end of turn. {T}: Add {W}.,0.25,j22,0

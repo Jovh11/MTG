@@ -1,0 +1,329 @@
+,name,mana_cost,cmc,oracle_text,power,toughness,prices,set,rarity
+0,Vendilion Clique,{1}{U}{U},3.0,Flash Flying When This Card enters the battlefield  look at target player's hand. You may choose a nonland card from it. If you do  that player reveals the chosen card  puts it on the bottom of their library  then draws a card.,3.0,1.0,3.86,j22,3
+1,Self-Assembler,{5},5.0,When This Card enters the battlefield  you may search your library for an Assembly-Worker creature card  reveal it  put it into your hand  then shuffle.,4.0,4.0,0.32,j22,0
+2,Woodland Champion,{1}{G},2.0,Whenever one or more tokens enter the battlefield under your control  put that many +1/+1 counters on This Card.,2.0,2.0,0.25,j22,1
+3,Oathsworn Vampire,{1}{B},2.0,This Card enters the battlefield tapped. You may cast This Card from your graveyard if you gained life this turn.,2.0,2.0,1.36,j22,1
+4,Gorging Vulture,{2}{B},3.0,Flying When This Card enters the battlefield  mill four cards. You gain 1 life for each creature card put into your graveyard this way.,2.0,2.0,0.26,j22,0
+5,Kargan Dragonrider,{1}{R},2.0,As long as you control a Dragon  This Card has flying. (It can't be blocked except by creatures with flying or reach.),2.0,2.0,0.26,j22,0
+6,Young Wolf,{G},1.0,Undying (When this creature dies  if it had no +1/+1 counters on it  return it to the battlefield under its owner's control with a +1/+1 counter on it.),1.0,1.0,0.25,j22,0
+7,Glint-Horn Buccaneer,{1}{R}{R},3.0,Haste Whenever you discard a card  This Card deals 1 damage to each opponent. {1}{R}  Discard a card: Draw a card. Activate only if This Card is attacking.,2.0,4.0,1.30,j22,2
+8,Eyekite,{1}{U},2.0,Flying This Card gets +2/+0 as long as you've drawn two or more cards this turn.,1.0,2.0,0.24,j22,0
+9,Gaea's Protector,{3}{G},4.0,This Card must be blocked if able.,4.0,2.0,0.26,j22,0
+10,"Krenko, Mob Boss",{2}{R}{R},4.0,{T}: Create X 1/1 red Goblin creature tokens  where X is the number of Goblins you control.,3.0,3.0,2.98,j22,2
+11,"Kenessos, Priest of Thassa",{1}{U},2.0,If you would scry a number of cards  scry that many cards plus one instead. {3}{G/U}: Look at the top card of your library. If it's a Kraken  Leviathan  Octopus  or Serpent creature card  you may put it onto the battlefield. If you don't put the card onto the battlefield  you may put it on the bottom of your library.,1.0,3.0,6.95,j22,2
+12,Goldspan Dragon,{3}{R}{R},5.0,"Flying  haste Whenever This Card attacks or becomes the target of a spell  create a Treasure token. Treasures you control have ""{T}  Sacrifice this artifact: Add two mana of any one color.""",4.0,4.0,11.84,j22,3
+13,Master of the Wild Hunt,{2}{G}{G},4.0,At the beginning of your upkeep  create a 2/2 green Wolf creature token. {T}: Tap all untapped Wolf creatures you control. Each Wolf tapped this way deals damage equal to its power to target creature. That creature deals damage equal to its power divided as its controller chooses among any number of those Wolves.,3.0,3.0,1.69,j22,3
+14,Infantry Veteran,{W},1.0,{T}: Target attacking creature gets +1/+1 until end of turn.,1.0,1.0,0.25,j22,0
+15,Dutiful Replicator,{3},3.0,When This Card enters the battlefield  you may pay {1}. When you do  create a token that's a copy of target token you control not named This Card.,3.0,2.0,0.24,j22,0
+16,Rigging Runner,{R},1.0,First strike Raid — This Card enters the battlefield with a +1/+1 counter on it if you attacked this turn.,1.0,1.0,0.82,j22,1
+17,"Kiki-Jiki, Mirror Breaker",{2}{R}{R}{R},5.0,Haste {T}: Create a token that's a copy of target nonlegendary creature you control  except it has haste. Sacrifice it at the beginning of the next end step.,2.0,2.0,12.72,j22,3
+18,Pit Keeper,{1}{B},2.0,When This Card enters the battlefield  if you have four or more creature cards in your graveyard  you may return target creature card from your graveyard to your hand.,2.0,1.0,0.26,j22,0
+19,Phantom Nantuko,{2}{G},3.0,Trample This Card enters the battlefield with two +1/+1 counters on it. If damage would be dealt to This Card  prevent that damage. Remove a +1/+1 counter from This Card. {T}: Put a +1/+1 counter on This Card.,0.0,0.0,0.41,j22,2
+20,Epicure of Blood,{4}{B},5.0,Whenever you gain life  each opponent loses 1 life.,4.0,4.0,0.82,j22,0
+21,Deadbridge Goliath,{2}{G}{G},4.0,Scavenge {4}{G}{G} ({4}{G}{G}  Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.),5.0,5.0,0.24,j22,2
+22,Devouring Swarm,{1}{B}{B},3.0,Flying Sacrifice a creature: This Card gets +1/+1 until end of turn.,2.0,1.0,0.13,j22,0
+23,Stitcher's Supplier,{B},1.0,When This Card enters the battlefield or dies  mill three cards.,1.0,1.0,6.12,j22,1
+24,Skirsdag High Priest,{1}{B},2.0,Morbid — {T}  Tap two untapped creatures you control: Create a 5/5 black Demon creature token with flying. Activate only if a creature died this turn.,1.0,2.0,0.43,j22,2
+25,Gravecrawler,{B},1.0,This Card can't block. You may cast This Card from your graveyard as long as you control a Zombie.,2.0,1.0,2.50,j22,2
+26,Starnheim Aspirant,{2}{W},3.0,Angel spells you cast cost {2} less to cast.,2.0,2.0,2.30,j22,1
+27,Gavony Unhallowed,{3}{B},4.0,Whenever another creature you control dies  put a +1/+1 counter on This Card.,2.0,4.0,0.24,j22,0
+28,Goblin Psychopath,{3}{R},4.0,Whenever This Card attacks or blocks  flip a coin. If you lose the flip  the next time it would deal combat damage this turn  it deals that damage to you instead.,5.0,5.0,2.36,j22,1
+29,Chittering Rats,{1}{B}{B},3.0,When This Card enters the battlefield  target opponent puts a card from their hand on top of their library.,2.0,2.0,0.47,j22,0
+30,Isu the Abominable,{3}{U}{U},5.0,You may look at the top card of your library any time. You may play snow lands and cast snow spells from the top of your library. Whenever another snow permanent enters the battlefield under your control  you may pay {G}  {W}  or {U}. If you do  put a +1/+1 counter on This Card.,5.0,5.0,18.96,j22,3
+31,Challenger Troll,{4}{G},5.0,Each creature you control with power 4 or greater can't be blocked by more than one creature.,6.0,5.0,0.25,j22,1
+32,Biblioplex Kraken,{4}{U},5.0,When This Card enters the battlefield  scry 3. (Look at the top three cards of your library  then put any number of them on the bottom of your library and the rest on top in any order.) Whenever This Card attacks  you may return another creature you control to its owner's hand. If you do  This Card can't be blocked this turn.,4.0,5.0,0.27,j22,1
+33,Marauding Blight-Priest,{2}{B},3.0,Whenever you gain life  each opponent loses 1 life.,3.0,2.0,0.27,j22,0
+34,Skyhunter Prowler,{2}{W},3.0,Flying  vigilance (This creature can't be blocked except by creatures with flying or reach  and attacking doesn't cause this creature to tap.),1.0,3.0,0.26,j22,0
+35,Pilfering Hawk,{1}{U},2.0,Flying {S}  {T}: Draw a card  then discard a card. ({S} can be paid with one mana from a snow source.),1.0,2.0,0.25,j22,0
+36,Sparkmage Apprentice,{1}{R},2.0,When This Card enters the battlefield  it deals 1 damage to any target.,1.0,1.0,0.26,j22,0
+37,Avalanche Caller,{1}{U},2.0,{2}: Target snow land you control becomes a 4/4 Elemental creature with hexproof and haste until end of turn. It's still a land. (A creature with hexproof can't be the target of spells or abilities your opponents control.),1.0,3.0,0.24,j22,1
+38,Endbringer,{5}{C},6.0,Untap This Card during each other player's untap step. {T}: This Card deals 1 damage to any target. {C}  {T}: Target creature can't attack or block this turn. {C}{C}  {T}: Draw a card.,5.0,5.0,0.97,j22,2
+39,Combat Professor,{3}{W},4.0,Flying At the beginning of combat on your turn  target creature you control gets +1/+0 and gains vigilance until end of turn.,2.0,3.0,0.25,j22,0
+40,Ripscale Predator,{4}{R}{R},6.0,Menace (This creature can't be blocked except by two or more creatures.),6.0,5.0,0.24,j22,0
+41,Cavalry Drillmaster,{1}{W},2.0,When This Card enters the battlefield  target creature gets +2/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.),2.0,1.0,0.25,j22,0
+42,Goblin Rabblemaster,{2}{R},3.0,Other Goblin creatures you control attack each combat if able. At the beginning of combat on your turn  create a 1/1 red Goblin creature token with haste. Whenever This Card attacks  it gets +1/+0 until end of turn for each other attacking Goblin.,2.0,2.0,1.73,j22,2
+43,Bloodbond Vampire,{2}{B}{B},4.0,Whenever you gain life  put a +1/+1 counter on This Card.,3.0,3.0,0.32,j22,1
+44,Reaper from the Abyss,{3}{B}{B}{B},6.0,Flying Morbid — At the beginning of each end step  if a creature died this turn  destroy target non-Demon creature.,6.0,6.0,3.86,j22,3
+45,Ogre Battlecaster,{2}{R},3.0,First strike Whenever This Card attacks  you may cast target instant or sorcery card from your graveyard by paying {R}{R} in addition to its other costs. If that spell would be put into a graveyard  exile it instead. When you cast that spell  This Card gets +X/+0 until end of turn  where X is that spell's mana value.,3.0,3.0,4.33,j22,2
+46,"Ardoz, Cobbler of War",{1}{R},2.0,Haste Whenever This Card or another creature enters the battlefield under your control  that creature gets +2/+0 until end of turn. {3}{R}: Create a 1/1 red Goblin creature token with haste. Activate only as a sorcery.,1.0,1.0,3.87,j22,2
+47,Moonfolk Puzzlemaker,{2}{U},3.0,Flying Whenever This Card becomes tapped  scry 1.,1.0,4.0,0.24,j22,0
+48,Ornery Dilophosaur,{3}{G},4.0,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.) Whenever This Card attacks  if you control a creature with power 4 or greater  This Card gets +2/+2 until end of turn.,2.0,2.0,0.25,j22,0
+49,Graveblade Marauder,{2}{B},3.0,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.) Whenever This Card deals combat damage to a player  that player loses life equal to the number of creature cards in your graveyard.,1.0,4.0,0.31,j22,2
+50,Renegade Demon,{3}{B}{B},5.0,_,5.0,3.0,0.25,j22,0
+51,Sage of the Falls,{4}{U},5.0,Whenever This Card or another non-Human creature enters the battlefield under your control  you may draw a card. If you do  discard a card.,2.0,5.0,0.24,j22,1
+52,Emancipation Angel,{1}{W}{W},3.0,Flying When This Card enters the battlefield  return a permanent you control to its owner's hand.,3.0,3.0,0.86,j22,1
+53,Elvish Rejuvenator,{2}{G},3.0,When This Card enters the battlefield  look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.,1.0,1.0,0.25,j22,0
+54,Steel Overseer,{2},2.0,{T}: Put a +1/+1 counter on each artifact creature you control.,1.0,1.0,0.98,j22,2
+55,Ashcoat of the Shadow Swarm,{3}{B},4.0,Whenever This Card attacks or blocks  other Rats you control get +X/+X until end of turn  where X is the number of Rats you control. At the beginning of your end step  you may mill four cards. If you do  return up to two Rat creature cards from your graveyard to your hand. (To mill a card  put the top card of your library into your graveyard.),3.0,4.0,30.86,j22,3
+56,Dwynen's Elite,{1}{G},2.0,When This Card enters the battlefield  if you control another Elf  create a 1/1 green Elf Warrior creature token.,2.0,2.0,0.17,j22,1
+57,Dawning Angel,{4}{W},5.0,Flying When This Card enters the battlefield  you gain 4 life.,3.0,2.0,0.69,j22,0
+58,Frostpeak Yeti,{3}{U},4.0,{1}{S}: This Card can't be blocked this turn. ({S} can be paid with one mana from a snow source.),3.0,3.0,0.50,j22,0
+59,Uktabi Orangutan,{2}{G},3.0,When This Card enters the battlefield  destroy target artifact.,2.0,2.0,0.25,j22,1
+60,Anointer of Valor,{5}{W},6.0,Flying Whenever a creature attacks  you may pay {3}. When you do  put a +1/+1 counter on that creature.,3.0,5.0,0.69,j22,0
+61,Sinuous Vermin,{1}{B},2.0,{3}{B}{B}: Monstrosity 3. (If this creature isn't monstrous  put three +1/+1 counters on it and it becomes monstrous.) As long as This Card is monstrous  it has menace. (It can't be blocked except by two or more creatures.),2.0,2.0,0.26,j22,0
+62,Spectral Hunt-Caller,{4}{G},5.0,{5}{G}: Creatures you control get +1/+1 and gain trample until end of turn.,4.0,4.0,0.23,j22,0
+63,Alley Strangler,{2}{B},3.0,Menace,2.0,3.0,0.24,j22,0
+64,Locthwain Gargoyle,{1},1.0,{4}: This Card gets +2/+0 and gains flying until end of turn.,0.0,3.0,0.26,j22,0
+65,Conductor of Cacophony,{3}{B},4.0,This Card enters the battlefield with two +1/+1 counters on it. {B}  Remove a +1/+1 counter from This Card: It deals 1 damage to each other creature and each player.,2.0,1.0,0.26,j22,1
+66,Transcendent Envoy,{1}{W},2.0,Flying Aura spells you cast cost {1} less to cast.,1.0,2.0,0.20,j22,0
+67,Golem Artisan,{5},5.0,{2}: Target artifact creature gets +1/+1 until end of turn. {2}: Target artifact creature gains your choice of flying  trample  or haste until end of turn.,3.0,3.0,0.26,j22,1
+68,Svyelun of Sea and Sky,{1}{U}{U},3.0,This Card has indestructible as long as you control at least two other Merfolk. Whenever Svyelun attacks  draw a card. Other Merfolk you control have ward {1}. (Whenever another Merfolk you control becomes the target of a spell or ability an opponent controls  counter it unless that player pays {1}.),3.0,4.0,3.49,j22,3
+69,Primordial Hydra,{X}{G}{G},2.0,This Card enters the battlefield with X +1/+1 counters on it. At the beginning of your upkeep  double the number of +1/+1 counters on This Card. This Card has trample as long as it has ten or more +1/+1 counters on it.,0.0,0.0,9.78,j22,3
+70,Sparktongue Dragon,{3}{R}{R},5.0,Flying When This Card enters the battlefield  you may pay {2}{R}. When you do  it deals 3 damage to any target.,3.0,3.0,0.25,j22,0
+71,Bloodthirsty Aerialist,{1}{B}{B},3.0,Flying Whenever you gain life  put a +1/+1 counter on This Card.,2.0,3.0,0.25,j22,1
+72,Elvish Warmaster,{1}{G},2.0,Whenever one or more other Elves enter the battlefield under your control  create a 1/1 green Elf Warrior creature token. This ability triggers only once each turn. {5}{G}{G}: Elves you control get +2/+2 and gain deathtouch until end of turn.,2.0,2.0,0.47,j22,2
+73,Dune Beetle,{1}{B},2.0,_,1.0,4.0,0.33,j22,0
+74,Kessig Cagebreakers,{4}{G},5.0,Whenever This Card attacks  create a 2/2 green Wolf creature token that's tapped and attacking for each creature card in your graveyard.,3.0,4.0,0.46,j22,2
+75,Bolt Hound,{2}{R},3.0,Haste (This creature can attack and {T} as soon as it comes under your control.) Whenever This Card attacks  other creatures you control get +1/+0 until end of turn.,2.0,2.0,0.24,j22,1
+76,Mild-Mannered Librarian,{G},1.0,{3}{G}: This Card becomes a Werewolf. Put two +1/+1 counters on it and you draw a card. Activate only once.,1.0,1.0,0.26,j22,1
+77,Dragonlord's Servant,{1}{R},2.0,Dragon spells you cast cost {1} less to cast.,1.0,3.0,0.33,j22,1
+78,Iridescent Hornbeetle,{4}{G},5.0,At the beginning of your end step  create a 1/1 green Insect creature token for each +1/+1 counter you've put on creatures under your control this turn.,3.0,4.0,0.24,j22,1
+79,Cyclops Electromancer,{4}{R},5.0,When This Card enters the battlefield  it deals X damage to target creature an opponent controls  where X is the number of instant and sorcery cards in your graveyard.,4.0,2.0,0.26,j22,1
+80,Merfolk Pupil,{1}{U},2.0,When This Card enters the battlefield  draw a card  then discard a card. {1}{U}  Exile This Card from your graveyard: Draw a card  then discard a card.,1.0,1.0,0.40,j22,0
+81,Lys Alana Huntmaster,{2}{G}{G},4.0,Whenever you cast an Elf spell  you may create a 1/1 green Elf Warrior creature token.,3.0,3.0,0.25,j22,0
+82,Solemn Simulacrum,{4},4.0,When This Card enters the battlefield  you may search your library for a basic land card  put that card onto the battlefield tapped  then shuffle. When This Card dies  you may draw a card.,2.0,2.0,0.92,j22,2
+83,Rampaging Baloths,{4}{G}{G},6.0,Trample Landfall — Whenever a land enters the battlefield under your control  you may create a 4/4 green Beast creature token.,6.0,6.0,0.33,j22,2
+84,"Yidaro, Wandering Monster",{5}{R}{R},7.0,Trample  haste Cycling {1}{R} When you cycle This Card  shuffle it into your library from your graveyard. If you've cycled a card named This Card four or more times this game  put it onto the battlefield from your graveyard instead. (Do this before you draw.),8.0,8.0,0.48,j22,2
+85,Dragon Mage,{5}{R}{R},7.0,Flying Whenever This Card deals combat damage to a player  each player discards their hand  then draws seven cards.,5.0,5.0,0.88,j22,1
+86,Seafloor Oracle,{2}{U}{U},4.0,Whenever a Merfolk you control deals combat damage to a player  draw a card.,2.0,3.0,0.80,j22,2
+87,Silverback Shaman,{3}{G}{G},5.0,Trample When This Card dies  draw a card.,5.0,4.0,0.25,j22,0
+88,Falkenrath Noble,{3}{B},4.0,Flying Whenever This Card or another creature dies  target player loses 1 life and you gain 1 life.,2.0,2.0,2.25,j22,1
+89,Avenger of Zendikar,{5}{G}{G},7.0,When This Card enters the battlefield  create a 0/1 green Plant creature token for each land you control. Landfall — Whenever a land enters the battlefield under your control  you may put a +1/+1 counter on each Plant creature you control.,5.0,5.0,5.00,j22,3
+90,Returned Reveler,{1}{B},2.0,When This Card dies  each player mills three cards.,1.0,3.0,0.26,j22,0
+91,Demon's Disciple,{2}{B},3.0,When This Card enters the battlefield  each player sacrifices a creature or planeswalker.,3.0,1.0,0.26,j22,1
+92,Vermin Gorger,{1}{B},2.0,{T}  Sacrifice another creature: Each opponent loses 2 life and you gain 2 life.,2.0,2.0,0.24,j22,0
+93,Ingenious Leonin,{4}{W},5.0,{3}{W}: Put a +1/+1 counter on another target attacking creature you control. If that creature is a Cat  it gains first strike until end of turn.,4.0,4.0,0.24,j22,1
+94,Nightpack Ambusher,{2}{G}{G},4.0,Flash Other Wolves and Werewolves you control get +1/+1. At the beginning of your end step  if you didn't cast a spell this turn  create a 2/2 green Wolf creature token.,4.0,4.0,0.91,j22,2
+95,Coalborn Entity,{4}{R},5.0,{2}{R}: This Card deals 1 damage to target creature token  player  or planeswalker.,4.0,4.0,0.22,j22,1
+96,Shambling Suit,{3},3.0,This Card's power is equal to the number of artifacts and/or enchantments you control.,4.0,3.0,0.26,j22,1
+97,"Zask, Skittering Swarmlord",{3}{G}{G},5.0,You may play lands and cast Insect spells from your graveyard. Whenever another Insect you control dies  put it on the bottom of its owner's library  then mill two cards. (Put the top two cards of your library into your graveyard.) {1}{B/G}: Target Insect gets +1/+0 and gains deathtouch until end of turn. ({B/G} can be paid with either {B} or {G}.),5.0,5.0,9.52,j22,2
+98,Moodmark Painter,{2}{B}{B},4.0,Undergrowth — When This Card enters the battlefield  target creature gains menace and gets +X/+0 until end of turn  where X is the number of creature cards in your graveyard. (It can't be blocked except by two or more creatures.),2.0,3.0,0.26,j22,0
+99,"Yargle, Glutton of Urborg",{4}{B},5.0,_,9.0,3.0,0.24,j22,1
+100,Imperious Perfect,{2}{G},3.0,Other Elves you control get +1/+1. {G}  {T}: Create a 1/1 green Elf Warrior creature token.,2.0,2.0,0.48,j22,2
+101,Goblin Researcher,{3}{R},4.0,When This Card enters the battlefield  exile the top card of your library. During any turn you attacked with This Card  you may play that card.,3.0,3.0,0.50,j22,0
+102,"Danitha Capashen, Paragon",{2}{W},3.0,First strike  vigilance  lifelink Aura and Equipment spells you cast cost {1} less to cast.,2.0,2.0,0.29,j22,1
+103,Amoeboid Changeling,{1}{U},2.0,Changeling (This card is every creature type.) {T}: Target creature gains all creature types until end of turn. {T}: Target creature loses all creature types until end of turn.,1.0,1.0,0.25,j22,0
+104,Mire Triton,{1}{B},2.0,Deathtouch When This Card enters the battlefield  mill two cards and you gain 2 life.,2.0,1.0,0.09,j22,1
+105,King of the Pride,{2}{W},3.0,Other Cats you control get +2/+1.,2.0,1.0,1.52,j22,1
+106,Wolverine Riders,{4}{G}{G},6.0,At the beginning of each upkeep  create a 1/1 green Elf Warrior creature token. Whenever another Elf enters the battlefield under your control  you gain life equal to its toughness.,4.0,4.0,1.90,j22,2
+107,Drowsing Tyrannodon,{1}{G},2.0,Defender (This creature can't attack.) As long as you control a creature with power 4 or greater  This Card can attack as though it didn't have defender.,3.0,3.0,0.25,j22,0
+108,Harbinger of the Tides,{U}{U},2.0,You may cast This Card as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.) When This Card enters the battlefield  you may return target tapped creature an opponent controls to its owner's hand.,2.0,2.0,0.52,j22,2
+109,"Michiko Konda, Truth Seeker",{3}{W},4.0,Whenever a source an opponent controls deals damage to you  that player sacrifices a permanent.,2.0,2.0,1.82,j22,2
+110,Chillerpillar,{3}{U},4.0,{4}{S}{S}: Monstrosity 2. (If this creature isn't monstrous  put two +1/+1 counters on it and it becomes monstrous. {S} can be paid with one mana from a snow source.) As long as This Card is monstrous  it has flying.,3.0,3.0,0.50,j22,0
+111,Magmatic Channeler,{1}{R},2.0,As long as there are four or more instant and/or sorcery cards in your graveyard  This Card gets +3/+1. {T}  Discard a card: Exile the top two cards of your library  then choose one of them. You may play that card this turn.,1.0,3.0,0.49,j22,2
+112,Flourishing Hunter,{4}{G}{G},6.0,When This Card enters the battlefield  you gain life equal to the greatest toughness among other creatures you control.,6.0,6.0,0.25,j22,0
+113,Dread Rider,{5}{B},6.0,{1}{B}  {T}  Exile a creature card from your graveyard: Target opponent loses 3 life.,3.0,7.0,0.24,j22,0
+114,Termination Facilitator,{1}{B},2.0,{T}: Put a bounty counter on target creature or planeswalker. Activate only as a sorcery. Whenever a creature or planeswalker an opponent controls with a bounty counter on it is dealt damage  destroy it.,1.0,3.0,3.27,j22,2
+115,Disciple of Perdition,{1}{B},2.0,When This Card dies  choose one. If you have exactly 13 life  you may choose both. • You draw a card and you lose 1 life. • Exile target opponent's graveyard. That player loses 1 life.,1.0,3.0,0.67,j22,1
+116,Liliana's Elite,{2}{B},3.0,This Card gets +1/+1 for each creature card in your graveyard.,1.0,1.0,0.26,j22,1
+117,Wake Thrasher,{2}{U},3.0,Whenever a permanent you control becomes untapped  This Card gets +1/+1 until end of turn.,1.0,1.0,0.47,j22,2
+118,Brazen Freebooter,{3}{R},4.0,"When This Card enters the battlefield  create a Treasure token. (It's an artifact with ""{T}  Sacrifice this artifact: Add one mana of any color."")",3.0,3.0,0.25,j22,0
+119,"Alandra, Sky Dreamer",{2}{U}{U},4.0,Whenever you draw your second card each turn  create a 2/2 blue Drake creature token with flying. Whenever you draw your fifth card each turn  This Card and Drakes you control each get +X/+X until end of turn  where X is the number of cards in your hand.,2.0,4.0,5.64,j22,2
+120,"Taranika, Akroan Veteran",{1}{W}{W},3.0,Vigilance Whenever This Card attacks  untap another target creature you control. Until end of turn  that creature has base power and toughness 4/4 and gains indestructible.,3.0,3.0,0.48,j22,2
+121,Angelic Page,{1}{W},2.0,Flying {T}: Target attacking or blocking creature gets +1/+1 until end of turn.,1.0,1.0,0.28,j22,0
+122,"Goreclaw, Terror of Qal Sisma",{3}{G},4.0,Creature spells you cast with power 4 or greater cost {2} less to cast. Whenever This Card attacks  each creature you control with power 4 or greater gets +1/+1 and gains trample until end of turn.,4.0,3.0,3.32,j22,2
+123,Merrow Reejerey,{2}{U},3.0,Other Merfolk creatures you control get +1/+1. Whenever you cast a Merfolk spell  you may tap or untap target permanent.,2.0,2.0,3.50,j22,1
+124,Meteor Golem,{7},7.0,When This Card enters the battlefield  destroy target nonland permanent an opponent controls.,3.0,3.0,0.26,j22,1
+125,"Syr Elenora, the Discerning",{3}{U}{U},5.0,This Card's power is equal to the number of cards in your hand. When Syr Elenora enters the battlefield  draw a card. Spells your opponents cast that target Syr Elenora cost {2} more to cast.,4.0,4.0,0.25,j22,1
+126,Giant Ladybug,{2}{G},3.0,Reach When This Card enters the battlefield  you may search your library for a basic land card  reveal it  then shuffle and put that card on top.,4.0,1.0,0.23,j22,0
+127,Barrage Ogre,{3}{R}{R},5.0,{T}  Sacrifice an artifact: This Card deals 2 damage to any target.,3.0,3.0,0.25,j22,1
+128,Undersea Invader,{4}{U}{U},6.0,Flash This Card enters the battlefield tapped.,5.0,6.0,0.26,j22,0
+129,"Seizan, Perverter of Truth",{3}{B}{B},5.0,At the beginning of each player's upkeep  that player loses 2 life and draws two cards.,6.0,5.0,15.42,j22,2
+130,Bloodline Pretender,{3},3.0,Changeling (This card is every creature type.) As This Card enters the battlefield  choose a creature type. Whenever another creature of the chosen type enters the battlefield under your control  put a +1/+1 counter on This Card.,2.0,2.0,0.44,j22,1
+131,Thaumaturge's Familiar,{3},3.0,Flying When This Card enters the battlefield  scry 1.,1.0,3.0,0.41,j22,0
+132,Lyra Dawnbringer,{3}{W}{W},5.0,Flying  first strike  lifelink Other Angels you control get +1/+1 and have lifelink.,5.0,5.0,7.45,j22,3
+133,Academy Journeymage,{4}{U},5.0,This spell costs {1} less to cast if you control a Wizard. When This Card enters the battlefield  return target creature an opponent controls to its owner's hand.,3.0,2.0,0.25,j22,0
+134,Irencrag Pyromancer,{2}{R},3.0,Whenever you draw your second card each turn  This Card deals 3 damage to any target.,0.0,4.0,0.43,j22,2
+135,Dread Slaver,{3}{B}{B},5.0,Whenever a creature dealt damage by This Card this turn dies  return it to the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.,3.0,5.0,0.44,j22,2
+136,Stitcher's Supplier,{B},1.0,When This Card enters the battlefield or dies  mill three cards.,1.0,1.0,4.15,j22,1
+137,Ophiomancer,{2}{B},3.0,At the beginning of each upkeep  if you control no Snakes  create a 1/1 black Snake creature token with deathtouch.,2.0,2.0,5.84,j22,2
+138,Emiel the Blessed,{2}{W}{W},4.0,{3}: Exile another target creature you control  then return it to the battlefield under its owner's control. Whenever another creature enters the battlefield under your control  you may pay {G/W}. If you do  put a +1/+1 counter on it. If it's a Unicorn  put two +1/+1 counters on it instead. ({G/W} can be paid with either {G} or {W}.),4.0,4.0,2.20,j22,3
+139,Rapacious Dragon,{4}{R},5.0,"Flying When This Card enters the battlefield  create two Treasure tokens. (They're artifacts with ""{T}  Sacrifice this artifact: Add one mana of any color."")",3.0,3.0,0.93,j22,1
+140,Crypt Rats,{2}{B},3.0,{X}: This Card deals X damage to each creature and each player. Spend only black mana on X.,1.0,1.0,0.24,j22,1
+141,Trove Warden,{2}{W}{W},4.0,Vigilance Landfall — Whenever a land enters the battlefield under your control  exile target permanent card with mana value 3 or less from your graveyard. When This Card dies  put each permanent card exiled with it onto the battlefield under the control of that card's owner.,3.0,4.0,0.44,j22,2
+142,Chandra's Spitfire,{2}{R},3.0,Flying Whenever an opponent is dealt noncombat damage  This Card gets +3/+0 until end of turn.,1.0,3.0,0.20,j22,1
+143,Renowned Weaponsmith,{1}{U},2.0,{T}: Add {C}{C}. Spend this mana only to cast artifact spells or activate abilities of artifacts. {U}  {T}: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire  reveal it  put it into your hand  then shuffle.,1.0,3.0,0.24,j22,1
+144,"Syr Alin, the Lion's Claw",{3}{W}{W},5.0,First strike Whenever This Card attacks  other creatures you control get +1/+1 until end of turn.,4.0,4.0,0.24,j22,1
+145,"Kwende, Pride of Femeref",{3}{W},4.0,Double strike Creatures you control with first strike have double strike.,2.0,2.0,0.23,j22,1
+146,Bloodtracker,{3}{B},4.0,Flying {B}  Pay 2 life: Put a +1/+1 counter on This Card. When This Card leaves the battlefield  draw a card for each +1/+1 counter on it.,2.0,2.0,0.36,j22,2
+147,Pyre-Sledge Arsonist,{2}{R},3.0,{1}  {T}: This Card deals X damage to any target  where X is the number of permanents you've sacrificed this turn.,2.0,2.0,0.25,j22,1
+148,"Syr Konrad, the Grim",{3}{B}{B},5.0,Whenever another creature dies  or a creature card is put into a graveyard from anywhere other than the battlefield  or a creature card leaves your graveyard  This Card deals 1 damage to each opponent. {1}{B}: Each player mills a card.,5.0,4.0,2.33,j22,1
+149,Spectral Sailor,{U},1.0,Flash (You may cast this spell any time you could cast an instant.) Flying {3}{U}: Draw a card.,1.0,1.0,4.97,j22,1
+150,Deathbringer Regent,{5}{B}{B},7.0,Flying When This Card enters the battlefield  if you cast it from your hand and there are five or more other creatures on the battlefield  destroy all other creatures.,5.0,6.0,0.25,j22,2
+151,Hooting Mandrills,{5}{G},6.0,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.) Trample,4.0,4.0,0.25,j22,0
+152,Overwhelmed Apprentice,{U},1.0,When This Card enters the battlefield  each opponent mills two cards. Then you scry 2. (Look at the top two cards of your library  then put any number of them on the bottom of your library and the rest on top in any order.),1.0,2.0,0.40,j22,1
+153,Merfolk Sovereign,{1}{U}{U},3.0,Other Merfolk creatures you control get +1/+1. {T}: Target Merfolk creature can't be blocked this turn.,2.0,2.0,0.94,j22,2
+154,Maalfeld Twins,{5}{B},6.0,When This Card dies  create two 2/2 black Zombie creature tokens.,4.0,4.0,0.25,j22,0
+155,Dreadhound,{4}{B}{B},6.0,When This Card enters the battlefield  mill three cards. (Put the top three cards of your library into your graveyard.) Whenever a creature dies or a creature card is put into a graveyard from a library  each opponent loses 1 life.,6.0,6.0,0.25,j22,1
+156,Morkrut Banshee,{3}{B}{B},5.0,Morbid — When This Card enters the battlefield  if a creature died this turn  target creature gets -4/-4 until end of turn.,4.0,4.0,0.30,j22,1
+157,Phyrexian Debaser,{3}{B},4.0,Flying {T}  Sacrifice This Card: Target creature gets -2/-2 until end of turn.,2.0,2.0,0.37,j22,0
+158,Law-Rune Enforcer,{W},1.0,{1}  {T}: Tap target creature with mana value 2 or greater.,1.0,2.0,0.24,j22,0
+159,"Lathliss, Dragon Queen",{4}{R}{R},6.0,Flying Whenever another nontoken Dragon enters the battlefield under your control  create a 5/5 red Dragon creature token with flying. {1}{R}: Dragons you control get +1/+0 until end of turn.,6.0,6.0,4.70,j22,2
+160,Octoprophet,{3}{U},4.0,When This Card enters the battlefield  scry 2. (Look at the top two cards of your library  then put any number of them on the bottom of your library and the rest on top in any order.),3.0,3.0,0.16,j22,0
+161,Regal Caracal,{3}{W}{W},5.0,Other Cats you control get +1/+1 and have lifelink. When This Card enters the battlefield  create two 1/1 white Cat creature tokens with lifelink.,3.0,3.0,0.96,j22,2
+162,Goblin Warchief,{1}{R}{R},3.0,Goblin spells you cast cost {1} less to cast. Goblins you control have haste.,2.0,2.0,0.51,j22,1
+163,"Auntie Blyte, Bad Influence",{2}{R},3.0,Flying Whenever a source you control deals damage to you  put that many +1/+1 counters on This Card. {1}{R}  {T}  Remove X +1/+1 counters from Auntie Blyte: It deals X damage to any target.,2.0,2.0,13.68,j22,3
+164,Demon of Catastrophes,{2}{B}{B},4.0,As an additional cost to cast this spell  sacrifice a creature. Flying  trample,6.0,6.0,0.47,j22,2
+165,Faerie Formation,{4}{U},5.0,Flying {3}{U}: Create a 1/1 blue Faerie creature token with flying. Draw a card.,5.0,4.0,0.53,j22,2
+166,Priest of the Blood Rite,{3}{B}{B},5.0,When This Card enters the battlefield  create a 5/5 black Demon creature token with flying. At the beginning of your upkeep  you lose 2 life.,2.0,2.0,0.38,j22,2
+167,Goldnight Commander,{3}{W},4.0,Whenever another creature enters the battlefield under your control  creatures you control get +1/+1 until end of turn.,2.0,2.0,0.50,j22,1
+168,Prowling Serpopard,{1}{G}{G},3.0,This spell can't be countered. Creature spells you control can't be countered.,4.0,3.0,1.95,j22,2
+169,Archon of Sun's Grace,{2}{W}{W},4.0,Flying  lifelink Pegasus creatures you control have lifelink. Constellation — Whenever an enchantment enters the battlefield under your control  create a 2/2 white Pegasus creature token with flying.,3.0,4.0,0.57,j22,2
+170,Nezumi Bone-Reader,{1}{B},2.0,{B}  Sacrifice a creature: Target player discards a card. Activate only as a sorcery.,1.0,1.0,0.26,j22,1
+171,Savannah Lions,{W},1.0,_,2.0,1.0,0.25,j22,1
+172,Pirated Copy,{4}{U},5.0,"You may have This Card enter the battlefield as a copy of any creature on the battlefield  except it's a Pirate in addition to its other types and it has ""Whenever this creature or another creature with the same name deals combat damage to a player  you may draw a card.""",0.0,0.0,15.90,j22,3
+173,Fireslinger,{1}{R},2.0,{T}: This Card deals 1 damage to any target and 1 damage to you.,1.0,1.0,0.25,j22,0
+174,"Kibo, Uktabi Prince",{2}{G},3.0,"{T}: Each player creates a colorless artifact token named Banana with ""{T}  Sacrifice this artifact: Add {R} or {G}. You gain 2 life."" Whenever an artifact an opponent controls is put into a graveyard from the battlefield  put a +1/+1 counter on each creature you control that's an Ape or Monkey. Whenever Kibo attacks  defending player sacrifices an artifact.",2.0,2.0,18.46,j22,3
+175,Sling-Gang Lieutenant,{3}{B},4.0,When This Card enters the battlefield  create two 1/1 red Goblin creature tokens. Sacrifice a Goblin: Target player loses 1 life and you gain 1 life.,1.0,1.0,2.24,j22,1
+176,Blisterpod,{G},1.0,"Devoid (This card has no color.) When This Card dies  create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}.""",1.0,1.0,2.39,j22,0
+177,Burglar Rat,{1}{B},2.0,When This Card enters the battlefield  each opponent discards a card.,1.0,1.0,0.38,j22,0
+178,Eidolon of Rhetoric,{2}{W},3.0,Each player can't cast more than one spell each turn.,1.0,4.0,4.01,j22,1
+179,"Mizzix, Replica Rider",{4}{R},5.0,"Flying Whenever you cast a spell from anywhere other than your hand  you may pay {1}{U/R}. If you do  copy that spell and you may choose new targets for the copy. If the copy is a permanent spell  it gains haste and ""At the beginning of your end step  sacrifice this permanent."" (A copy of a permanent spell becomes a token.)",4.0,5.0,4.68,j22,2
+180,Ivy Lane Denizen,{3}{G},4.0,Whenever another green creature enters the battlefield under your control  put a +1/+1 counter on target creature.,2.0,3.0,0.25,j22,0
+181,Brineborn Cutthroat,{1}{U},2.0,Flash (You may cast this spell any time you could cast an instant.) Whenever you cast a spell during an opponent's turn  put a +1/+1 counter on This Card.,2.0,1.0,0.37,j22,1
+182,Engulfing Slagwurm,{5}{G}{G},7.0,Whenever This Card blocks or becomes blocked by a creature  destroy that creature. You gain life equal to that creature's toughness.,7.0,7.0,0.75,j22,2
+183,"Preston, the Vanisher",{3}{W},4.0,Whenever another nontoken creature enters the battlefield under your control  if it wasn't cast  create a token that's a copy of that creature  except it's a 0/1 white Illusion. {1}{W}  Sacrifice five Illusions: Exile target nonland permanent.,2.0,5.0,11.85,j22,2
+184,Mystic Skyfish,{2}{U},3.0,Whenever you draw your second card each turn  This Card gains flying until end of turn.,3.0,1.0,0.26,j22,0
+185,Scrounging Bandar,{1}{G},2.0,This Card enters the battlefield with two +1/+1 counters on it. At the beginning of your upkeep  you may move any number of +1/+1 counters from This Card onto another target creature.,0.0,0.0,0.24,j22,0
+186,Shaper Apprentice,{1}{U},2.0,This Card has flying as long as you control another Merfolk.,2.0,1.0,0.50,j22,0
+187,"Kari Zev, Skyship Raider",{1}{R},2.0,First strike  menace Whenever This Card attacks  create Ragavan  a legendary 2/1 red Monkey creature token. Ragavan enters the battlefield tapped and attacking. Exile that token at end of combat.,1.0,3.0,0.44,j22,2
+188,Tormented Soul,{B},1.0,This Card can't block and can't be blocked.,1.0,1.0,0.24,j22,0
+189,Spiteful Prankster,{2}{R},3.0,As long as it's your turn  This Card has first strike. Whenever another creature dies  This Card deals 1 damage to target player or planeswalker.,3.0,2.0,0.24,j22,1
+190,Manakin,{2},2.0,{T}: Add {C}.,1.0,1.0,0.26,j22,0
+191,Ironshell Beetle,{1}{G},2.0,When This Card enters the battlefield  put a +1/+1 counter on target creature.,1.0,1.0,0.09,j22,0
+192,Young Pyromancer,{1}{R},2.0,Whenever you cast an instant or sorcery spell  create a 1/1 red Elemental creature token.,2.0,1.0,0.25,j22,1
+193,Professional Face-Breaker,{2}{R},3.0,Menace Whenever one or more creatures you control deal combat damage to a player  create a Treasure token. Sacrifice a Treasure: Exile the top card of your library. You may play that card this turn.,2.0,3.0,3.79,j22,2
+194,"Vito, Thorn of the Dusk Rose",{2}{B},3.0,Whenever you gain life  target opponent loses that much life. {3}{B}{B}: Creatures you control gain lifelink until end of turn.,1.0,3.0,2.51,j22,2
+195,Drannith Stinger,{1}{R},2.0,Whenever you cycle another card  This Card deals 1 damage to each opponent. Cycling {1} ({1}  Discard this card: Draw a card.),2.0,2.0,0.36,j22,0
+196,Battle Squadron,{3}{R}{R},5.0,Flying This Card's power and toughness are each equal to the number of creatures you control.,4.0,4.0,0.33,j22,1
+197,Tree of Perdition,{3}{B},4.0,Defender {T}: Exchange target opponent's life total with This Card's toughness.,0.0,13.0,17.80,j22,3
+198,Phyrexian Plaguelord,{3}{B}{B},5.0,{T}  Sacrifice This Card: Target creature gets -4/-4 until end of turn. Sacrifice a creature: Target creature gets -1/-1 until end of turn.,4.0,4.0,0.74,j22,2
+199,"Isamaru, Hound of Konda",{W},1.0,_,2.0,2.0,1.35,j22,2
+200,Skullslither Worm,{3}{B},4.0,When This Card enters the battlefield  each opponent discards a card. For each opponent who can't  put two +1/+1 counters on This Card.,3.0,3.0,0.37,j22,1
+201,Spellstutter Sprite,{1}{U},2.0,Flash Flying When This Card enters the battlefield  counter target spell with mana value X or less  where X is the number of Faeries you control.,1.0,1.0,8.80,j22,0
+202,Elderleaf Mentor,{3}{G},4.0,When This Card enters the battlefield  create a 1/1 green Elf Warrior creature token.,3.0,2.0,0.25,j22,0
+203,Undead Augur,{B}{B},2.0,Whenever This Card or another Zombie you control dies  you draw a card and you lose 1 life.,2.0,2.0,1.98,j22,1
+204,Task Force,{2}{W},3.0,Whenever This Card becomes the target of a spell or ability  it gets +0/+3 until end of turn.,1.0,3.0,0.22,j22,0
+205,Nested Ghoul,{3}{B}{B},5.0,Whenever a source deals damage to This Card  create a 2/2 black Phyrexian Zombie creature token.,4.0,2.0,0.24,j22,1
+206,Iron Bully,{3},3.0,Menace (This creature can't be blocked except by two or more creatures.) When This Card enters the battlefield  put a +1/+1 counter on target creature.,1.0,1.0,0.25,j22,0
+207,Doomed Dissenter,{1}{B},2.0,When This Card dies  create a 2/2 black Zombie creature token.,1.0,1.0,3.27,j22,0
+208,Magnanimous Magistrate,{5}{W},6.0,This Card enters the battlefield with five reprieve counters on it. Whenever another nontoken creature you control dies  if its mana value was 1 or greater  you may remove that many reprieve counters from This Card. If you do  return that card to the battlefield under its owner's control.,3.0,4.0,1.08,j22,1
+209,Glen Elendra Pranksters,{3}{U},4.0,Flying Whenever you cast a spell during an opponent's turn  you may return target creature you control to its owner's hand.,1.0,3.0,0.25,j22,1
+210,Warden of Geometries,{4},4.0,Vigilance {T}: Add {C}. ({C} represents colorless mana.),2.0,3.0,0.09,j22,0
+211,Reassembling Skeleton,{1}{B},2.0,{1}{B}: Return This Card from your graveyard to the battlefield tapped.,1.0,1.0,1.23,j22,1
+212,Arms Dealer,{2}{R},3.0,{1}{R}  Sacrifice a Goblin: This Card deals 4 damage to target creature.,1.0,1.0,0.24,j22,1
+213,Triton Shorestalker,{U},1.0,This Card can't be blocked.,1.0,1.0,0.26,j22,0
+214,Furnace Whelp,{2}{R}{R},4.0,Flying {R}: This Card gets +1/+0 until end of turn.,2.0,2.0,0.26,j22,1
+215,Plague Spitter,{2}{B},3.0,At the beginning of your upkeep  This Card deals 1 damage to each creature and each player. When This Card dies  This Card deals 1 damage to each creature and each player.,2.0,2.0,0.24,j22,1
+216,Benalish Honor Guard,{1}{W},2.0,This Card gets +1/+0 for each legendary creature you control.,2.0,2.0,0.50,j22,0
+217,Towering Gibbon,{3}{G},4.0,Reach This Card's power is equal to the greatest mana value among creatures you control.,4.0,4.0,0.28,j22,1
+218,Universal Automaton,{1},1.0,Changeling (This card is every creature type.),1.0,1.0,0.22,j22,0
+219,Ogre Slumlord,{3}{B}{B},5.0,Whenever another nontoken creature dies  you may create a 1/1 black Rat creature token. Rats you control have deathtouch.,3.0,3.0,0.57,j22,2
+220,Leonin Warleader,{2}{W}{W},4.0,Whenever This Card attacks  create two 1/1 white Cat creature tokens with lifelink that are tapped and attacking.,4.0,4.0,3.86,j22,2
+221,Hangarback Walker,{X}{X},0.0,This Card enters the battlefield with X +1/+1 counters on it. When This Card dies  create a 1/1 colorless Thopter artifact creature token with flying for each +1/+1 counter on This Card. {1}  {T}: Put a +1/+1 counter on This Card.,0.0,0.0,4.74,j22,2
+222,Vedalken Engineer,{1}{U},2.0,{T}: Add two mana of any one color. Spend this mana only to cast artifact spells or activate abilities of artifacts.,1.0,1.0,0.25,j22,0
+223,Phyrexian Ironfoot,{3},3.0,This Card doesn't untap during your untap step. {1}{S}: Untap This Card. ({S} can be paid with one mana from a snow source.),3.0,4.0,0.26,j22,1
+224,Righteous Valkyrie,{2}{W},3.0,Flying Whenever another Angel or Cleric enters the battlefield under your control  you gain life equal to that creature's toughness. As long as you have at least 7 life more than your starting life total  creatures you control get +2/+2.,2.0,4.0,4.43,j22,2
+225,Swarm of Bloodflies,{4}{B},5.0,Flying This Card enters the battlefield with two +1/+1 counters on it. Whenever another creature dies  put a +1/+1 counter on This Card.,0.0,0.0,0.24,j22,1
+226,Wildborn Preserver,{1}{G},2.0,Flash Reach Whenever another non-Human creature enters the battlefield under your control  you may pay {X}. When you do  put X +1/+1 counters on This Card.,2.0,2.0,0.49,j22,2
+227,Cruel Sadist,{B},1.0,{B}  {T}  Pay 1 life: Put a +1/+1 counter on This Card. {2}{B}  {T}  Remove X +1/+1 counters from This Card: It deals X damage to target creature.,1.0,1.0,0.32,j22,2
+228,Dread Presence,{3}{B},4.0,Whenever a Swamp enters the battlefield under your control  choose one — • You draw a card and you lose 1 life. • This Card deals 2 damage to any target and you gain 2 life.,3.0,3.0,2.60,j22,2
+229,Plaguecrafter,{2}{B},3.0,When This Card enters the battlefield  each player sacrifices a creature or planeswalker. Each player who can't discards a card.,3.0,2.0,0.92,j22,1
+230,Deathbloom Thallid,{2}{B},3.0,When This Card dies  create a 1/1 green Saproling creature token.,3.0,2.0,1.64,j22,0
+231,Rhonas the Indomitable,{2}{G},3.0,Deathtouch  indestructible This Card can't attack or block unless you control another creature with power 4 or greater. {2}{G}: Another target creature gets +2/+0 and gains trample until end of turn.,5.0,5.0,5.08,j22,3
+232,Mirror Image,{2}{U},3.0,You may have This Card enter the battlefield as a copy of a creature you control.,0.0,0.0,4.30,j22,1
+233,Gigantoplasm,{3}{U},4.0,"You may have This Card enter the battlefield as a copy of any creature on the battlefield  except it has ""{X}: This creature has base power and toughness X/X.""",0.0,0.0,1.81,j22,2
+234,Gleaming Barrier,{2},2.0,"Defender When This Card dies  create a Treasure token. (It's an artifact with ""{T}  Sacrifice this artifact: Add one mana of any color."")",0.0,4.0,0.25,j22,0
+235,Spark Reaper,{2}{B},3.0,{3}  Sacrifice a creature or planeswalker: You gain 1 life and draw a card.,2.0,3.0,0.26,j22,0
+236,Order of the Golden Cricket,{1}{W},2.0,Whenever This Card attacks  you may pay {W}. If you do  it gains flying until end of turn.,2.0,2.0,0.39,j22,0
+237,Restoration Angel,{3}{W},4.0,Flash Flying When This Card enters the battlefield  you may exile target non-Angel creature you control  then return that card to the battlefield under your control.,3.0,4.0,0.70,j22,2
+238,Simian Brawler,{3}{G},4.0,Discard a land card: This Card gets +1/+1 until end of turn.,3.0,3.0,0.24,j22,0
+239,Wizard Mentor,{2}{U},3.0,{T}: Return This Card and target creature you control to their owner's hand.,2.0,2.0,0.25,j22,0
+240,Walking Ballista,{X}{X},0.0,This Card enters the battlefield with X +1/+1 counters on it. {4}: Put a +1/+1 counter on This Card. Remove a +1/+1 counter from This Card: It deals 1 damage to any target.,0.0,0.0,15.26,j22,2
+241,Blood Artist,{1}{B},2.0,Whenever This Card or another creature dies  target player loses 1 life and you gain 1 life.,0.0,1.0,3.32,j22,1
+242,Subterranean Scout,{1}{R},2.0,When This Card enters the battlefield  target creature with power 2 or less can't be blocked this turn.,2.0,1.0,0.24,j22,0
+243,Benevolent Hydra,{X}{G}{G},2.0,This Card enters the battlefield with X +1/+1 counters on it. If one or more +1/+1 counters would be put on another creature you control  that many plus one +1/+1 counters are put on it instead. {T}  Remove a +1/+1 counter from This Card: Put a +1/+1 counter on another target creature you control.,1.0,1.0,6.16,j22,2
+244,Caustic Caterpillar,{G},1.0,{1}{G}  Sacrifice This Card: Destroy target artifact or enchantment.,1.0,1.0,0.36,j22,0
+245,Whirler Rogue,{2}{U}{U},4.0,When This Card enters the battlefield  create two 1/1 colorless Thopter artifact creature tokens with flying. Tap two untapped artifacts you control: Target creature can't be blocked this turn.,2.0,2.0,1.15,j22,1
+246,Reclamation Sage,{2}{G},3.0,When This Card enters the battlefield  you may destroy target artifact or enchantment.,2.0,1.0,0.26,j22,1
+247,Soulcage Fiend,{1}{B}{B},3.0,When This Card dies  each player loses 3 life.,3.0,2.0,0.25,j22,0
+248,Reckless Fireweaver,{1}{R},2.0,Whenever an artifact enters the battlefield under your control  This Card deals 1 damage to each opponent.,1.0,3.0,0.28,j22,0
+249,Pilgrim's Eye,{3},3.0,Flying When This Card enters the battlefield  you may search your library for a basic land card  reveal it  put it into your hand  then shuffle.,1.0,1.0,0.24,j22,0
+250,Ossuary Rats,{5}{B},6.0,When This Card enters the battlefield  it deals X damage to target creature or planeswalker an opponent controls  where X is the number of creature cards in your graveyard.,3.0,2.0,0.62,j22,0
+251,Pestermite,{2}{U},3.0,Flash Flying When This Card enters the battlefield  you may tap or untap target permanent.,2.0,1.0,0.48,j22,0
+252,River Sneak,{1}{U},2.0,This Card can't be blocked. Whenever another Merfolk enters the battlefield under your control  This Card gets +1/+1 until end of turn.,1.0,1.0,0.26,j22,1
+253,Runed Servitor,{2},2.0,When This Card dies  each player draws a card.,2.0,2.0,0.26,j22,0
+254,"Gadrak, the Crown-Scourge",{2}{R},3.0,"Flying This Card can't attack unless you control four or more artifacts. At the beginning of your end step  create a Treasure token for each nontoken creature that died this turn. (It's an artifact with ""{T}  Sacrifice this artifact: Add one mana of any color."")",5.0,4.0,0.89,j22,2
+255,Courser of Kruphix,{1}{G}{G},3.0,Play with the top card of your library revealed. You may play lands from the top of your library. Landfall — Whenever a land enters the battlefield under your control  you gain 1 life.,2.0,4.0,1.75,j22,2
+256,Brood Monitor,{4}{G}{G},6.0,"Devoid (This card has no color.) When This Card enters the battlefield  create three 1/1 colorless Eldrazi Scion creature tokens. They have ""Sacrifice this creature: Add {C}.""",3.0,3.0,0.09,j22,1
+257,Cryptic Serpent,{5}{U}{U},7.0,This spell costs {1} less to cast for each instant and sorcery card in your graveyard.,6.0,5.0,0.24,j22,1
+258,Faerie Seer,{U},1.0,Flying When This Card enters the battlefield  scry 2.,1.0,1.0,0.24,j22,0
+259,Swaggering Corsair,{2}{R},3.0,Raid — This Card enters the battlefield with a +1/+1 counter on it if you attacked this turn.,2.0,2.0,0.25,j22,0
+260,"Ib Halfheart, Goblin Tactician",{3}{R},4.0,Whenever another Goblin you control becomes blocked  sacrifice it. If you do  it deals 4 damage to each creature blocking it. Sacrifice two Mountains: Create two 1/1 red Goblin creature tokens.,3.0,2.0,2.24,j22,2
+261,Distinguished Conjurer,{1}{W},2.0,Whenever another creature enters the battlefield under your control  you gain 1 life. {4}{W}  {T}: Exile another target creature you control  then return it to the battlefield under its owner's control.,1.0,2.0,1.36,j22,1
+262,Wailing Ghoul,{1}{B},2.0,When This Card enters the battlefield  mill two cards.,1.0,3.0,0.26,j22,0
+263,Archon of Justice,{3}{W}{W},5.0,Flying When This Card dies  exile target permanent.,4.0,4.0,0.47,j22,2
+264,Wavebreak Hippocamp,{2}{U},3.0,Whenever you cast your first spell during each opponent's turn  draw a card.,2.0,2.0,0.22,j22,2
+265,Quakefoot Cyclops,{4}{R},5.0,When This Card enters the battlefield  up to two target creatures can't block this turn. Cycling {1}{R} ({1}{R}  Discard this card: Draw a card.) When you cycle This Card  target creature can't block this turn.,4.0,4.0,0.24,j22,0
+266,Captain Lannery Storm,{2}{R},3.0,"Haste Whenever This Card attacks  create a Treasure token. (It's an artifact with ""{T}  Sacrifice this artifact: Add one mana of any color."") Whenever you sacrifice a Treasure  This Card gets +1/+0 until end of turn.",2.0,2.0,0.91,j22,2
+267,Angelic Protector,{3}{W},4.0,Flying Whenever This Card becomes the target of a spell or ability  This Card gets +0/+3 until end of turn.,2.0,2.0,0.31,j22,1
+268,Erdwal Illuminator,{1}{U},2.0,Flying Whenever you investigate for the first time each turn  investigate an additional time.,1.0,3.0,0.24,j22,1
+269,Thrashing Brontodon,{1}{G}{G},3.0,{1}  Sacrifice This Card: Destroy target artifact or enchantment.,3.0,4.0,0.47,j22,1
+270,Gnawing Zombie,{1}{B},2.0,{1}{B}  Sacrifice a creature: Target player loses 1 life and you gain 1 life.,1.0,3.0,0.24,j22,0
+271,Elite Instructor,{2}{U},3.0,When This Card enters the battlefield  draw a card  then discard a card.,2.0,2.0,0.25,j22,0
+272,Lord of the Accursed,{2}{B},3.0,Other Zombies you control get +1/+1. {1}{B}  {T}: All Zombies gain menace until end of turn.,2.0,3.0,2.05,j22,1
+273,Dragonspeaker Shaman,{1}{R}{R},3.0,Dragon spells you cast cost {2} less to cast.,2.0,2.0,0.58,j22,1
+274,"Balan, Wandering Knight",{2}{W}{W},4.0,First strike This Card has double strike as long as two or more Equipment are attached to it. {1}{W}: Attach all Equipment you control to Balan.,3.0,3.0,27.83,j22,2
+275,Rodolf Duskbringer,{5}{B},6.0,Flying  deathtouch  lifelink Whenever you gain life  This Card gains indestructible until end of turn. At the beginning of your end step  you may pay {1}{W/B}. When you do  return target creature with mana value X or less from your graveyard to the battlefield  where X is the amount of life you gained this turn.,4.0,4.0,12.75,j22,2
+276,Volley Veteran,{3}{R},4.0,When This Card enters the battlefield  it deals damage to target creature an opponent controls equal to the number of Goblins you control.,4.0,2.0,0.25,j22,1
+277,Thermo-Alchemist,{1}{R},2.0,Defender {T}: This Card deals 1 damage to each opponent. Whenever you cast an instant or sorcery spell  untap This Card.,0.0,3.0,0.52,j22,0
+278,Angel of Flight Alabaster,{4}{W},5.0,Flying At the beginning of your upkeep  return target Spirit card from your graveyard to your hand.,4.0,4.0,0.54,j22,2
+279,"Muxus, Goblin Grandee",{4}{R}{R},6.0,When This Card enters the battlefield  reveal the top six cards of your library. Put all Goblin creature cards with mana value 5 or less from among them onto the battlefield and the rest on the bottom of your library in a random order. Whenever Muxus attacks  it gets +1/+1 until end of turn for each other Goblin you control.,4.0,4.0,5.23,j22,2
+280,Wispweaver Angel,{4}{W}{W},6.0,Flying When This Card enters the battlefield  you may exile another target creature you control  then return that card to the battlefield under its owner's control.,4.0,4.0,0.45,j22,1
+281,Typhoid Rats,{B},1.0,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),1.0,1.0,0.26,j22,0
+282,Brightmare,{2}{W},3.0,When This Card enters the battlefield  tap up to one target creature. You gain life equal to that creature's power.,2.0,3.0,0.09,j22,1
+283,Revenant,{4}{B},5.0,Flying This Card's power and toughness are each equal to the number of creature cards in your graveyard.,4.0,4.0,0.24,j22,1
+284,"Kothophed, Soul Hoarder",{4}{B}{B},6.0,Flying Whenever a permanent owned by another player is put into a graveyard from the battlefield  you draw a card and you lose 1 life.,6.0,6.0,0.25,j22,2
+285,Wakedancer,{2}{B},3.0,Morbid — When This Card enters the battlefield  if a creature died this turn  create a 2/2 black Zombie creature token.,2.0,2.0,0.09,j22,0
+286,Lurking Deadeye,{3}{B},4.0,Flash When This Card enters the battlefield  destroy target creature that was dealt damage this turn.,4.0,2.0,0.24,j22,0
+287,Berg Strider,{4}{U},5.0,When This Card enters the battlefield  tap target artifact or creature an opponent controls. If {S} was spent to cast this spell  that permanent doesn't untap during its controller's next untap step. ({S} is mana from a snow source.),4.0,4.0,0.50,j22,0
+288,World Breaker,{6}{G},7.0,Devoid (This card has no color.) When you cast this spell  exile target artifact  enchantment  or land. Reach {2}{C}  Sacrifice a land: Return This Card from your graveyard to your hand. ({C} represents colorless mana.),5.0,7.0,5.13,j22,3
+289,Briarpack Alpha,{3}{G},4.0,Flash (You may cast this spell any time you could cast an instant.) When This Card enters the battlefield  target creature gets +2/+2 until end of turn.,3.0,3.0,0.24,j22,1
+290,Clockwork Hydra,{5},5.0,This Card enters the battlefield with four +1/+1 counters on it. Whenever This Card attacks or blocks  remove a +1/+1 counter from it. If you do  This Card deals 1 damage to any target. {T}: Put a +1/+1 counter on This Card.,0.0,0.0,0.39,j22,1
+291,Creeping Bloodsucker,{1}{B},2.0,At the beginning of your upkeep  This Card deals 1 damage to each opponent. You gain life equal to the damage dealt this way.,1.0,2.0,0.66,j22,0
+292,Filigree Attendant,{2}{U}{U},4.0,Flying This Card's power is equal to the number of artifacts you control.,4.0,3.0,0.26,j22,1
+293,Ilysian Caryatid,{1}{G},2.0,{T}: Add one mana of any color. If you control a creature with power 4 or greater  add two mana of any one color instead.,1.0,1.0,0.25,j22,0
+294,Valkyrie Harbinger,{4}{W}{W},6.0,Flying  lifelink At the beginning of each end step  if you gained 4 or more life this turn  create a 4/4 white Angel creature token with flying and vigilance.,4.0,5.0,1.76,j22,2
+295,Doomed Traveler,{W},1.0,When This Card dies  create a 1/1 white Spirit creature token with flying.,1.0,1.0,6.27,j22,0
+296,"Agrus Kos, Eternal Soldier",{3}{W},4.0,Vigilance Whenever This Card becomes the target of an ability that targets only it  you may pay {1}{R/W}. If you do  copy that ability for each other creature you control that ability could target. Each copy targets a different one of those creatures. ({R/W} can be paid with either {R} or {W}.),3.0,4.0,4.89,j22,2
+297,Skirsdag Supplicant,{2}{B},3.0,{B}  {T}  Discard a card: Each player loses 2 life.,2.0,3.0,0.33,j22,0
+298,Wily Bandar,{G},1.0,"{2}{G}: This Card gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",1.0,1.0,0.19,j22,0
+299,Stalwart Valkyrie,{3}{W},4.0,You may pay {1}{W} and exile a creature card from your graveyard rather than pay this spell's mana cost. Flying,3.0,2.0,0.69,j22,0
+300,Wicked Wolf,{2}{G}{G},4.0,When This Card enters the battlefield  it fights up to one target creature you don't control. Sacrifice a Food: Put a +1/+1 counter on This Card. It gains indestructible until end of turn. Tap it.,3.0,3.0,0.89,j22,2
+301,Flameblade Adept,{R},1.0,Menace Whenever you cycle or discard a card  This Card gets +1/+0 until end of turn.,1.0,2.0,0.09,j22,1
+302,Pestilent Wolf,{1}{G},2.0,{2}{G}: This Card gains deathtouch until end of turn.,2.0,2.0,0.24,j22,0
+303,Shimmer Dragon,{4}{U}{U},6.0,Flying As long as you control four or more artifacts  This Card has hexproof. Tap two untapped artifacts you control: Draw a card.,5.0,6.0,2.99,j22,2
+304,Massacre Wurm,{3}{B}{B}{B},6.0,When This Card enters the battlefield  creatures your opponents control get -2/-2 until end of turn. Whenever a creature an opponent controls dies  that player loses 2 life.,6.0,5.0,4.53,j22,3
+305,Tempered Veteran,{1}{W},2.0,{W}  {T}: Put a +1/+1 counter on target creature with a +1/+1 counter on it. {4}{W}{W}  {T}: Put a +1/+1 counter on target creature.,1.0,2.0,0.24,j22,1
+306,Goblin Artillery,{1}{R}{R},3.0,{T}: This Card deals 2 damage to any target and 3 damage to you.,1.0,3.0,0.26,j22,1
+307,Selfless Spirit,{1}{W},2.0,Flying Sacrifice This Card: Creatures you control gain indestructible until end of turn.,2.0,1.0,1.89,j22,2
+308,Shadowborn Demon,{3}{B}{B},5.0,Flying When This Card enters the battlefield  destroy target non-Demon creature. At the beginning of your upkeep  if there are fewer than six creature cards in your graveyard  sacrifice a creature.,5.0,6.0,1.40,j22,3
+309,Hooded Assassin,{2}{B},3.0,When This Card enters the battlefield  choose one — • Put a +1/+1 counter on This Card. • Destroy target creature that was dealt damage this turn.,1.0,2.0,0.24,j22,0
+310,Storm Sculptor,{3}{U},4.0,This Card can't be blocked. When This Card enters the battlefield  return a creature you control to its owner's hand.,3.0,2.0,0.26,j22,0
+311,Spirited Companion,{1}{W},2.0,When This Card enters the battlefield  draw a card.,1.0,1.0,0.25,j22,0
+312,"Lita, Mechanical Engineer",{2}{W},3.0,"Vigilance At the beginning of your end step  untap each other artifact creature you control. {3}{W}  {T}: Create a 5/5 colorless Vehicle artifact token named Zeppelin with flying and crew 3. (It has ""Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn."")",3.0,3.0,20.12,j22,3
+313,Angelic Cub,{1}{W},2.0,Whenever This Card becomes the target of a spell or ability for the first time each turn  put a +1/+1 counter on it. As long as This Card has three or more +1/+1 counters on it  it has flying.,1.0,1.0,1.15,j22,1
+314,Plundering Predator,{4}{R},5.0,Flying When This Card enters the battlefield  you may discard a card. If you do  draw a card.,3.0,3.0,0.94,j22,0
+315,"Runadi, Behemoth Caller",{2}{G},3.0,Whenever you cast a creature spell with mana value 5 or greater  that creature enters the battlefield with X additional +1/+1 counters on it  where X is its mana value minus 4. Creature you control with three or more +1/+1 counters on them have haste. {T}: Add {G}.,1.0,3.0,6.46,j22,2
+316,Saltwater Stalwart,{3}{U},4.0,Whenever This Card deals damage to an opponent  target player draws a card.,2.0,4.0,0.26,j22,0
+317,Spear Spewer,{R},1.0,Defender {T}: This Card deals 1 damage to each player.,0.0,2.0,1.05,j22,0
+318,Ravenous Giant,{2}{R}{R},4.0,At the beginning of your upkeep  This Card deals 1 damage to you.,5.0,5.0,0.24,j22,1
+319,Lumengrid Sentinel,{2}{U},3.0,Flying Whenever an artifact enters the battlefield under your control  you may tap target permanent.,1.0,2.0,0.26,j22,1
+320,Goldhound,{R},1.0,First strike Menace (This creature can't be blocked except by two or more creatures.) {T}  Sacrifice This Card: Add one mana of any color.,1.0,1.0,0.26,j22,0
+321,"Tivash, Gloom Summoner",{4}{B},5.0,Lifelink At the beginning of your end step  if you gained life this turn  you may pay X life  where X is the amount of life you gained this turn. If you do  create an X/X black Demon creature token with flying.,4.0,4.0,0.69,j22,2
+322,Psychosis Crawler,{5},5.0,This Card's power and toughness are each equal to the number of cards in your hand. Whenever you draw a card  each opponent loses 1 life.,4.0,4.0,0.19,j22,2
+323,Inspiring Overseer,{2}{W},3.0,Flying When This Card enters the battlefield  you gain 1 life and draw a card.,2.0,1.0,0.47,j22,0
+324,Primeval Herald,{3}{G},4.0,Trample Whenever This Card enters the battlefield or attacks  you may search your library for a basic land card  put it onto the battlefield tapped  then shuffle.,3.0,1.0,2.43,j22,1
+325,Fallowsage,{3}{U},4.0,Whenever This Card becomes tapped  you may draw a card.,2.0,2.0,0.43,j22,1
+326,Creeperhulk,{3}{G}{G},5.0,Trample {1}{G}: Until end of turn  target creature you control has base power and toughness 5/5 and gains trample.,5.0,5.0,0.42,j22,2
+327,Suspicious Shambler,{3}{B},4.0,{4}{B}{B}  Exile This Card from your graveyard: Create two 2/2 black Zombie creature tokens. Activate only as a sorcery.,4.0,2.0,0.21,j22,0
